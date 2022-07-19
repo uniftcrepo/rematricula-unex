@@ -1,0 +1,66 @@
+{
+  "name": "rematricula",
+  "version": "0.1.0",
+  "homepage": "http://teste.com",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.28",
+    "@fortawesome/free-brands-svg-icons": "^5.13.0",
+    "@fortawesome/free-solid-svg-icons": "^5.13.0",
+    "@fortawesome/react-fontawesome": "^0.1.9",
+    "@material-ui/core": "^4.12.3",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "aos": "^2.3.4",
+    "bootstrap": "^4.4.1",
+    "date-fns": "^2.16.1",
+    "date-fns-tz": "^1.0.12",
+    "gsap": "^2.1.2",
+    "html-react-parser": "^0.13.0",
+    "immer": "^7.0.14",
+    "jquery": "^3.4.1",
+    "node-sass": "^4.14.1",
+    "polished": "^4.0.3",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-app-polyfill": "^1.0.0",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-bootstrap-select": "^0.14.0",
+    "react-confirm-alert": "^2.7.0",
+    "react-dom": "^16.12.0",
+    "react-ga": "^2.7.0",
+    "react-hook-form": "^6.10.1",
+    "react-list-drag-and-drop": "^0.9.2",
+    "react-loading": "^2.0.3",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.0",
+    "reselect": "^4.0.0",
+    "rsuite": "^4.2.1",
+    "scrollmagic": "^2.0.6",
+    "styled-components": "^5.0.0",
+    "swiper": "6.0.2"
+  },
+  "scripts": {
+    "start": "PORT=3055 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {}
+}

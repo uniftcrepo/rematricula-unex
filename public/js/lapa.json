@@ -1,0 +1,21 @@
+{
+    
+    "cidade": [
+        {
+            "Data": "17/02",
+            "Palestra": "Relações Interpessoais na Vida acadêmica e no trabalho",
+            "Horario": "9h"
+        },
+        {
+            "Data": "18/02",
+            "Palestra": "Minicurso: Logística em estoque de Farmácia",
+            "Horario": "13h30"
+        },
+        {
+            "Data": "11/03",
+            "Palestra": "Minicurso: Direito consumidor e Direito Empresarial para profissionais autônomos",
+            "Horario": "15h"
+        }
+    ]
+    
+}

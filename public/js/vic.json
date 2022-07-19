@@ -1,0 +1,235 @@
+{
+ 
+    "cidade": [
+        {
+            "Data": "13/02/2020",
+            "Palestra": "A Fisioterapia e o Fisioterapeuta: Uma relação para o sucesso",
+            "Horario": "14h"
+        },
+        {
+            "Data": "05/03/2020",
+            "Palestra": "Correndo para o futuro: Avaliação fisioterápica de corredores",
+            "Horario": "14h"
+        },
+        {
+            "Data": "19/03/2020",
+            "Palestra": "RespirAção: A Fisioterapia Respiratória que salva vidas",
+            "Horario": "14h"
+        },
+        {
+            "Data": "19/02/2020",
+            "Palestra": "A UNIVERSIDADE COMO UM NOVO ESPAÇO DE RELAÇÃO",
+            "Horario": "14h"
+        },
+        {
+            "Data": "27/02/2020",
+            "Palestra": "CONHECENDO AS ÁREAS ODONTOLÓGICAS DO SEC XXI",
+            "Horario": "14h"
+        },
+        {
+            "Data": "19/03/2020",
+            "Palestra": "GINCANA SOBRE AS ÁREAS ODONTOLÓGICAS",
+            "Horario": "14h"
+        },
+        {
+            "Data": "06/02/2020",
+            "Palestra": "PRINCIPAIS PARTOLOGIAS NAS INSTALAÇÕES HIDROSSANITÁRIAS",
+            "Horario": "14h"
+        },
+        {
+            "Data": "13/02/2020",
+            "Palestra": "PRINCIPAIS PARTOLOGIAS NAS INSTALAÇÕES HIDROSSANITÁRIAS",
+            "Horario": "14h"
+        },
+        {
+            "Data": "05/03/2020",
+            "Palestra": "PRINCIPAIS PARTOLOGIAS NAS INSTALAÇÕES HIDROSSANITÁRIAS",
+            "Horario": "14h"
+        },
+        {
+            "Data": "12/03/2020",
+            "Palestra": "PRINCIPAIS PARTOLOGIAS NAS INSTALAÇÕES HIDROSSANITÁRIAS",
+            "Horario": "14h"
+        },
+        {
+            "Data": "26/03/2020",
+            "Palestra": "PRINCIPAIS PARTOLOGIAS NAS INSTALAÇÕES HIDROSSANITÁRIAS",
+            "Horario": "14h"
+        },
+        {
+            "Data": "17/02/2020",
+            "Palestra": "NUTRIÇÃO INTUITIVA: IMPORTÂNCIA DA NUTRIÇÃO COMPORTAMENTAL",
+            "Horario": "14h"
+        },
+        {
+            "Data": "18/02/2020",
+            "Palestra": "NUTRIÇÃO INTUITIVA: IMPORTÂNCIA DA NUTRIÇÃO COMPORTAMENTAL",
+            "Horario": "14h"
+        },
+        {
+            "Data": "19/02/2020",
+            "Palestra": "NUTRIÇÃO INTUITIVA: IMPORTÂNCIA DA NUTRIÇÃO COMPORTAMENTAL",
+            "Horario": "14h"
+        },
+        {
+            "Data": "10/03/2020",
+            "Palestra": "DIÁLOGOS INTERDISCIPLINARES EM DIREITO: O LOUCO INFRATOR E O ESTIGMA DA CRIMINALIDADE",
+            "Horario": "14h"
+        },
+        {
+            "Data": "13/03/2020",
+            "Palestra": "DIÁLOGOS SOBRE A PRÁTICA JURÍDICA I: COMO ATUAR EM AUDIÊNCIAS TRABALHISTAS",
+            "Horario": "14h"
+        },
+        {
+            "Data": "17/03/2020",
+            "Palestra": "DIÁLOGOS SOBRE A PRÁTICA JURÍDICA II - PETIÇÃO NOS JUIZADOS CÍVEIS: QUAL O MELHOR FORMATO?",
+            "Horario": "14h"
+        },
+        {
+            "Data": "03/03/2020",
+            "Palestra": "HUMANIZAÇÃO DE PET´S",
+            "Horario": "14h"
+        },
+        {
+            "Data": "10/03/2020",
+            "Palestra": "Uso de tecnologias na prática profissional do Médico Veterinário",
+            "Horario": "14h"
+        },
+        {
+            "Data": "17/03/2020",
+            "Palestra": "Uso de tecnologias na prática profissional do Médico Veterinário",
+            "Horario": "14h"
+        },
+        {
+            "Data": "13/02/2020",
+            "Palestra": "Enfermagem em ação: Oficina de Sinais Vitais",
+            "Horario": "14h"
+        },
+        {
+            "Data": "20/02/2020",
+            "Palestra": "Avaliação e ações de cuidados na realização de curativos especiais",
+            "Horario": "14h"
+        },
+        {
+            "Data": "12/03/2020",
+            "Palestra": "Oficina de Primeiros Socorros",
+            "Horario": "14h"
+        },
+        {
+            "Data": "19/03/2020",
+            "Palestra": "Oficina de suporte básico básico de vida - PCR",
+            "Horario": "14h"
+        },
+        {
+            "Data": "05/02/2020",
+            "Palestra": "CURRICULO E CARREIRA",
+            "Horario": "14h"
+        },
+        {
+            "Data": "12/02/2020",
+            "Palestra": "LIDERANDO EQUIPES",
+            "Horario": "14h"
+        },
+        {
+            "Data": "06/03/2020",
+            "Palestra": "CURRICULO E CARREIRA",
+            "Horario": "14h"
+        },
+        {
+            "Data": "11/03/2020",
+            "Palestra": "LIDERANDO EQUIPES",
+            "Horario": "14h"
+        },
+        {
+            "Data": "17/02/2020",
+            "Palestra": "DRINKS CLÁSSICOS COM CACHAÇA",
+            "Horario": "14h"
+        },
+        {
+            "Data": "19/02/2020",
+            "Palestra": "ETIQUETA, ATENDIMENTO E SERVIÇOS DE CATERING E A MESA",
+            "Horario": "14h"
+        },
+        {
+            "Data": "05/03/2020",
+            "Palestra": "VINHOS, DEGISTAÇÃO E HARMONIZAÇÃO",
+            "Horario": "14h"
+        },
+        {
+            "Data": "10/03/2020",
+            "Palestra": "CHEESE-CAKE E TORTAS DOCES",
+            "Horario": "14h"
+        },
+        {
+            "Data": "17/03/2020",
+            "Palestra": "COZINHA VEGETARIANA",
+            "Horario": "14h"
+        },
+        {
+            "Data": "12/02/2020",
+            "Palestra": "ATIVIDADES PRATICAS COM UTILIZAÇÃO DO ARDUÍNO",
+            "Horario": "14h"
+        },
+        {
+            "Data": "19/02/2020",
+            "Palestra": "PROGRAMAÇÃO PARA INICIANTES",
+            "Horario": "14h"
+        },
+        {
+            "Data": "11/03/2020",
+            "Palestra": "ATIVIDADES PRATICAS COM UTILIZAÇÃO DO ARDUÍNO",
+            "Horario": "14h"
+        },
+        {
+            "Data": "04/03/2020",
+            "Palestra": "CRIANDO SEU PRIMEIRO APP",
+            "Horario": "14h"
+        },
+        {
+            "Data": "19/02/2020",
+            "Palestra": "AUDIO VISUAL PARA MIDIAS SOCIAIS",
+            "Horario": "14h"
+        },
+        {
+            "Data": "04/03/2020",
+            "Palestra": "MARKETING DIGITAL",
+            "Horario": "14h"
+        },
+        {
+            "Data": "11/03/2020",
+            "Palestra": "PRODUTIVIDADE: PARA QUEM QUER TEMPO",
+            "Horario": "14h"
+        },
+        {
+            "Data": "04/03/2020",
+            "Palestra": "TECNICAS LABORATORIAS: MICROSCOPIA PARA INICIANTES",
+            "Horario": "14h"
+        },
+        {
+            "Data": "11/03/2020",
+            "Palestra": "TECNICAS LABORATORIAIS: IMUNOHEMATOLOGIA BÁSICA",
+            "Horario": "14h"
+        },
+        {
+            "Data": "04/03/2020",
+            "Palestra": "MANIPULAÇÃO DE FORMULAS FARMACÊUTICAS",
+            "Horario": "14h"
+        },
+        {
+            "Data": "09/03/2020",
+            "Palestra": "Saúde x Educação física",
+            "Horario": "14h"
+        },
+        {
+            "Data": "17/03/2020",
+            "Palestra": "Treinamento funcional prático",
+            "Horario": "14h"
+        },
+        {
+            "Data": "26/03/2020",
+            "Palestra": "O profissional de Educação Física e a Multiprofissionalidade.",
+            "Horario": "14h"
+        }
+    ]
+}

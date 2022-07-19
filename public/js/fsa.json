@@ -1,0 +1,425 @@
+{
+ 
+    "cidade": [
+          {
+            "Data": "07/02/2020",
+            "Palestra": "Odontologia X Estética no contexto contemporâneo",
+            "Horario": "11h"
+        },
+        {
+            "Data": "11/02/2020",
+            "Palestra": "Oficina - Odontologia Digital: novas perspectivas",
+            "Horario": "9h30"
+        },
+        {
+            "Data": "11/02/2020",
+            "Palestra": "Oficina: Vivenciando um dia de cirurgião-dentista",
+            "Horario": "14h30"
+        },
+        {
+            "Data": "13/02/2020",
+            "Palestra": "Odontologia x saúde geral - será que existe alguma correlação?",
+            "Horario": "10h30"
+        },
+        {
+            "Data": "14/02/2020",
+            "Palestra": "Novas perspectivas de atuação do Cirurgião-dentista",
+            "Horario": "11h"
+        },
+        {
+            "Data": "18/02/2020",
+            "Palestra": "Oficina: Vivenciando um dia de cirurgião-dentista",
+            "Horario": "15h30"
+        },
+        {
+            "Data": "10/02/2020",
+            "Palestra": "Rotina do Médico Veterinário de Pequenos Animais",
+            "Horario": "14h"
+        },
+        {
+            "Data": "13/02/2020",
+            "Palestra": "Apresentação e uso de um laboratório de Análises Veterinárias",
+            "Horario": "10h"
+        },
+        {
+            "Data": "17/02/2020",
+            "Palestra": "Panorama atual da Produção Animal ",
+            "Horario": "14h"
+        },
+        {
+            "Data": "12/02/2020",
+            "Palestra": "Introdução ao Metabolismo Animal",
+            "Horario": "07h30"
+        },
+        {
+            "Data": "17/02/2020",
+            "Palestra": "Body Pint em equinos",
+            "Horario": "9h"
+        },
+        {
+            "Data": "19/02/2020",
+            "Palestra": "Apresentação de um tanque sustentável de produção de peixes",
+            "Horario": "8h"
+        },
+        {
+            "Data": "18/02/2020",
+            "Palestra": "Peças vivas X Softwares - O estudo da Anatomia Animal",
+            "Horario": "8h"
+        },
+        {
+            "Data": "07/02/2020",
+            "Palestra": "Formação da imagem ultrassonográfica",
+            "Horario": "9h"
+        },
+        {
+            "Data": "10/02/2020",
+            "Palestra": "Introdução à anatomofisiologia humana",
+            "Horario": "10h"
+        },
+        {
+            "Data": "13/02/2020",
+            "Palestra": "Avaliação fisioterapêutica a gestante",
+            "Horario": "7h30"
+        },
+        {
+            "Data": "14/02/2020",
+            "Palestra": "Atendimento fisioterapêutico a gestante.",
+            "Horario": "13h30"
+        },
+        {
+            "Data": "13/02/2020",
+            "Palestra": "Oficina de Mobilização Precoce em UTI ",
+            "Horario": "13h30"
+        },
+        {
+            "Data": "14/02/2020",
+            "Palestra": "Avaliação fisioterapêutica na saúde da mulher.",
+            "Horario": "7h30"
+        },
+        {
+            "Data": "14/02/2020",
+            "Palestra": "Avaliação e atuação fisioterapeuta em enfermaria puerperal.",
+            "Horario": "13h30"
+        },
+        {
+            "Data": "17/02/2020",
+            "Palestra": "Avaliação do paciente em Unidade de Terapia Intensiva",
+            "Horario": "14h "
+        },
+        {
+            "Data": "19/02/2020",
+            "Palestra": "Interpretação de Hemogasometria Arterial: o que fazer",
+            "Horario": "14h"
+        },
+        {
+            "Data": "20/02/2020",
+            "Palestra": "Aspectos anatomofisiologicos do RN prematuro",
+            "Horario": "7h30"
+        },
+        {
+            "Data": "20/02/2020",
+            "Palestra": "Atuação fisioterapêutica ao RN prematuro hospitalizado.",
+            "Horario": "13h30"
+        },
+        {
+            "Data": "20/02/2020",
+            "Palestra": "Oficina de Ventilação Mecânica em UTI",
+            "Horario": "13h30"
+        },
+        {
+            "Data": "21/02/2020",
+            "Palestra": "Avaliação fisioterapêutica a  paciente com incontinência urinária",
+            "Horario": "7h30"
+        },
+        {
+            "Data": "21/02/2020",
+            "Palestra": "Atuação fisioterapêutica a paciente com incontinência urinária.",
+            "Horario": "13h30"
+        },
+        {
+            "Data": "27/02/2020",
+            "Palestra": "Oficina de Auriculoterapia",
+            "Horario": "13h30 "
+        },
+        {
+            "Data": "06/03/2020",
+            "Palestra": "A profissão contábil no mundo contemporâneo",
+            "Horario": "16h"
+        },
+        {
+            "Data": "13/03/2020",
+            "Palestra": "Perspectiva de mercado da profissão contábil",
+            "Horario": "16h"
+        },
+        {
+            "Data": "05/02/2020",
+            "Palestra": "Minicurso - Suporte Básico de Vida",
+            "Horario": "16h"
+        },
+        {
+            "Data": "06/02/2020",
+            "Palestra": "Minicurso - Feridas e Coberturas",
+            "Horario": "16h "
+        },
+        {
+            "Data": "06/02/2020",
+            "Palestra": "Oficina - Métodos não Farmacológicos no Alívio da Dor",
+            "Horario": "13h30"
+        },
+        {
+            "Data": "06/02/2020",
+            "Palestra": "Oficina - Catéter Central de Inserção Periférica (PICC)",
+            "Horario": "16h "
+        },
+        {
+            "Data": "06/02/2020",
+            "Palestra": "Oficina - Cirurgia Segura",
+            "Horario": "17h30"
+        },
+        {
+            "Data": "06/02/2020",
+            "Palestra": "Minicurso - Inserção e Cuidados com PICC neonatal e pediátrico",
+            "Horario": "17h30"
+        },
+        {
+            "Data": "11/02/2020",
+            "Palestra": "Minicurso - Cuidados Paliativos",
+            "Horario": "15h"
+        },
+        {
+            "Data": "12/02/2020",
+            "Palestra": "Oficina - Manejo da Lactação e Aleitamento Materno Exclusivo",
+            "Horario": "14h30"
+        },
+        {
+            "Data": "13/02/2020",
+            "Palestra": "Oficina - Enfermagem Forense",
+            "Horario": "16h"
+        },
+        {
+            "Data": "13/02/2020",
+            "Palestra": "Minicurso - Acolhimento com Classificação de Risco na Atenção Básica",
+            "Horario": "15h"
+        },
+        {
+            "Data": "13/02/2020",
+            "Palestra": "Oficina - Assistência de Enfermagem ao Paciente Pediátrico Oncológico ",
+            "Horario": "17h"
+        },
+        {
+            "Data": "14/02/2020",
+            "Palestra": "Minicurso - Testes Rápidos",
+            "Horario": "16h"
+        },
+        {
+            "Data": "20/02/2020",
+            "Palestra": "Oficina - Sistematização da Assistência de Enfermagem",
+            "Horario": "17h"
+        },
+        {
+            "Data": "04/02/2020",
+            "Palestra": "Roda de Conversa com egressos / Relações interpessoais (Natalia Cordeiro)",
+            "Horario": "17h"
+        },
+        {
+            "Data": "05/02/2020",
+            "Palestra": "Biomédico na ortomolecular",
+            "Horario": "18h"
+        },
+        {
+            "Data": "06/02/2020",
+            "Palestra": "Oficina: imunologia clínica",
+            "Horario": "16h"
+        },
+        {
+            "Data": "10/02/2020",
+            "Palestra": "Terapias complementares",
+            "Horario": "09h"
+        },
+        {
+            "Data": "11/02/2020",
+            "Palestra": "Oficina: hemoterapias ",
+            "Horario": "17h"
+        },
+        {
+            "Data": "13/02/2020",
+            "Palestra": "Roda de conversa: Arboviroses",
+            "Horario": "17h30 "
+        },
+        {
+            "Data": "14/02/2020",
+            "Palestra": "Oficina - Cidificação genética in sílico (fingerprint)",
+            "Horario": "17h"
+        },
+        {
+            "Data": "17/02/2020",
+            "Palestra": "Roda de conversa sobre a importância da pós graduação",
+            "Horario": "15h"
+        },
+        {
+            "Data": "18/02/2020",
+            "Palestra": "Ofinina: Leitura de laminas hematologicas",
+            "Horario": "17h"
+        },
+        {
+            "Data": "06/02/2020",
+            "Palestra": "TALK SHOW - MITOS E \"MODINHAS\" SOBRE A PRÁTICA DE EXERCÍCIO FÍSICO.",
+            "Horario": "18H"
+        },
+        {
+            "Data": "10/02/2020",
+            "Palestra": "OFICINA - EDUCAÇÃO FÍSICA E SEUS DIVERSOS CAMPOS DE ATUAÇÃO PROFISSIONAL (ESPORTES) ",
+            "Horario": "09H\n18H"
+        },
+        {
+            "Data": "12/02/2020",
+            "Palestra": "OFICINA - EDUCAÇÃO FÍSICA E SEUS DIVERSOS CAMPOS DE ATUAÇÃO PROFISSIONAL (CORRIDA DE ORIENTAÇÃO) ",
+            "Horario": "18H"
+        },
+        {
+            "Data": "18/02/2020",
+            "Palestra": "TALK SHOW - VALORIZAÇÃO PROFISSIONAL: COMO SER BEM SUCEDIDO SENDO PROFESSOR DE EDUCAÇÃO FÍSICA",
+            "Horario": "18H"
+        },
+        {
+            "Data": "20/02/2020",
+            "Palestra": "OFICINA - EDUCAÇÃO FÍSICA E SEUS DIVERSOS CAMPOS DE ATUAÇÃO PROFISSIONAL (CROSSFIT) ",
+            "Horario": "18H"
+        },
+        {
+            "Data": "04/03/2020",
+            "Palestra": "OFICINA - EDUCAÇÃO FÍSICA E SEUS DIVERSOS CAMPOS DE ATUAÇÃO PROFISSIONAL (Tênis de Mesa) ",
+            "Horario": "18H"
+        },
+        {
+            "Data": "11/03/2020",
+            "Palestra": "OFICINA - EDUCAÇÃO FÍSICA E SEUS DIVERSOS CAMPOS DE ATUAÇÃO PROFISSIONAL (Futebol Americano) ",
+            "Horario": "18H"
+        },
+        {
+            "Data": "06/02/2020",
+            "Palestra": "Difundindo o ECA ( Estatuto da criança e do adolescente)",
+            "Horario": "16h"
+        },
+        {
+            "Data": "07/02/2020",
+            "Palestra": "Direito e argumentação: do texto Jurídico aoa poder da oratória- oficina",
+            "Horario": "16h"
+        },
+        {
+            "Data": "12/02/2020",
+            "Palestra": " DIREITO POPULAR X DIREITO ACADÊMICO- OFICINA",
+            "Horario": "16h"
+        },
+        {
+            "Data": "17/02/2020",
+            "Palestra": "A construção de trabalhos acadêmicos em Direito - OFICINA",
+            "Horario": "16h"
+        },
+        {
+            "Data": "17/02/2020",
+            "Palestra": "O direito e o mercado de trabalho- oficina",
+            "Horario": "16h"
+        },
+        {
+            "Data": "18/02/2020",
+            "Palestra": "Progressão de regime como possível fomentador da violência no Brasil- Mine curso",
+            "Horario": "16h"
+        },
+        {
+            "Data": "21/02/2020",
+            "Palestra": " O que trata os juizados especiais cíveis? Mine curso",
+            "Horario": "16h"
+        },
+        {
+            "Data": "20/02/2020",
+            "Palestra": "AS VERTENTES DA TEORIA GERAL DO PROCESSO-MINE CURSO",
+            "Horario": "16h"
+        },
+        {
+            "Data": "03/03/2020",
+            "Palestra": "Abuso sexual: uma vertente jurídica- MINE CURSO",
+            "Horario": "16h"
+        },
+        {
+            "Data": "05/03/2020",
+            "Palestra": "As garantias do  Direito do consumidor- MINE CURSO",
+            "Horario": "16h "
+        },
+        {
+            "Data": "09/03/2020",
+            "Palestra": "DESMISTIFICANDO O DIREITO DO TRABALHO",
+            "Horario": "16h"
+        },
+        {
+            "Data": "12/03/2020",
+            "Palestra": "CONCURSOS PÚBLICOS  E DIREITO- MINE CURSO",
+            "Horario": "16h"
+        },
+        {
+            "Data": "17/03/2020",
+            "Palestra": "OS NOVOS RUMOS DA ADVOCACIA- MINE CURSO",
+            "Horario": "16h"
+        },
+        {
+            "Data": "18/03/2020",
+            "Palestra": "O AMPLO CONCEITO DE FAMÍLIA NO DIREITO CIVIL.",
+            "Horario": "16h"
+        },
+        {
+            "Data": "04/02/2020",
+            "Palestra": "Manuseio da Calculadora Científica",
+            "Horario": "14h"
+        },
+        {
+            "Data": "06/02/2020",
+            "Palestra": "A importância dos Calculos para Engenharias (Roda de Conversa)",
+            "Horario": "18h"
+        },
+        {
+            "Data": "07/02/2020",
+            "Palestra": "Coaching: como ser bem sucedido na Engenharia ",
+            "Horario": "18h"
+        },
+        {
+            "Data": "10/02/2020",
+            "Palestra": "Tecnologia BIN",
+            "Horario": "19h "
+        },
+        {
+            "Data": "11/02/2020",
+            "Palestra": "Tecnologia AUTOCAD",
+            "Horario": "19h "
+        },
+        {
+            "Data": "18/02/2020",
+            "Palestra": "Estudo de Caso: Edifício Sarkis",
+            "Horario": "18h"
+        },
+        {
+            "Data": "19/02/2020",
+            "Palestra": "Gerenciamento de Resíduos Sólidos na Construção Civil",
+            "Horario": "17h"
+        },
+        {
+            "Data": "03/02/2020",
+            "Palestra": "Oficina: Reeleitura Funcional: Confeitaria do Bem",
+            "Horario": "20h"
+        },
+        {
+            "Data": "08/02/2020",
+            "Palestra": "Oficina: Interpretação de Análises Microbiológicas de acordo com a Nova Legislação RDC331EIN 60/ANVISA/2019",
+            "Horario": "20h"
+        },
+        {
+            "Data": "11/02/2020",
+            "Palestra": "Suplementação Tamponante : como/quando utilizar?",
+            "Horario": "20h"
+        },
+        {
+            "Data": "17/02/2020",
+            "Palestra": "Oficina: Condutas Terapêuticas no DM2 de acordo com a SBD, 2019.",
+            "Horario": "8h"
+        }
+    ]
+}

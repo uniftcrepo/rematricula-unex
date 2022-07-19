@@ -1,0 +1,85 @@
+{
+ 
+    "cidade": [
+        {
+            "Data": "10/02",
+            "Palestra": "Medicina baseada em evidência: Espiritualidade e doença cardiovascular",
+            "Horario": "10h"
+        },
+        {
+            "Data": "11/02",
+            "Palestra": "Periodontia médica",
+            "Horario": "15h"
+        },
+        {
+            "Data": "11/02",
+            "Palestra": "Obesidade",
+            "Horario": "16h"
+        },
+        {
+            "Data": "11/02",
+            "Palestra": "Uso da Ozonioterapia na Enfermagem",
+            "Horario": "10h"
+        },
+        {
+            "Data": "11/02",
+            "Palestra": "Fisioterapia nas disfunções da ATM",
+            "Horario": "20h"
+        },
+        {
+            "Data": "11/02",
+            "Palestra": "Autocuidado: sua importância na formação profissional e na qualidade de vida do profissional da área de saúde",
+            "Horario": "10h"
+        },
+        {
+            "Data": "12/02",
+            "Palestra": "Utilização de apps para atividade física",
+            "Horario": "20h"
+        },
+        {
+            "Data": "12/02",
+            "Palestra": "Fisioterapia nas disfunções da ATM",
+            "Horario": "10h"
+        },
+        {
+            "Data": "12/02",
+            "Palestra": "Atualização em Asma e DPOC",
+            "Horario": "13h"
+        },
+        {
+            "Data": "12/02",
+            "Palestra": "Judicialização na Medicina",
+            "Horario": "14h"
+        },
+        {
+            "Data": "13/02",
+            "Palestra": "Qualidade de vida em tempos de ansiedade e depressão",
+            "Horario": "10h"
+        },
+        {
+            "Data": "13/02",
+            "Palestra": "Utilização de apps para atividade física",
+            "Horario": "17h"
+        },
+        {
+            "Data": "13/02",
+            "Palestra": "Você tem uma mente de sucesso?",
+            "Horario": "17h"
+        },
+        {
+            "Data": "14/02",
+            "Palestra": "Corona Vírus",
+            "Horario": "10h"
+        },
+        {
+            "Data": "14/02",
+            "Palestra": "Auriculoterapia",
+            "Horario": "9h"
+        },
+        {
+            "Data": "14/02",
+            "Palestra": "Atualidades em Ressuscitação Cardiopulmonar",
+            "Horario": "10h"
+        }
+    ]
+}

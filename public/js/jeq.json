@@ -1,0 +1,67 @@
+{
+	"coordenador":[
+		{"nome":"Guilherme"}
+	],
+    "cidade": [
+        {
+            "Data": "13/02",
+            "Palestra": "Palestra (Núcleo de Carreias):\nImportância da graduação para vida profissional \n",
+            "Horario": "19h"
+        },
+        {
+            "Data": "14/02",
+            "Palestra": "Palestra(Núcleo de Carreias):\nEmpreendedorismo\n",
+            "Horario": "19H"
+        },
+        {
+            "Data": "17/02",
+            "Palestra": "Oficina(Colegiado de Odontologia ):\nSaúde Bucal\n",
+            "Horario": "19H"
+        },
+        {
+            "Data": "18/02",
+            "Palestra": "Oficina(Colegiado de Nutrição):\nAproveitamento de alimentos  ",
+            "Horario": "19H"
+        },
+        {
+            "Data": "19/02",
+            "Palestra": "Oficina(Colegiado de Farmácia ):\nAtendimento em saúde \n",
+            "Horario": "19H"
+        },
+        {
+            "Data": "20/02",
+            "Palestra": "Oficina(Colegiado de Enfermagem)\nAmamentação\n",
+            "Horario": "19H"
+        },
+        {
+            "Data": "21/02",
+            "Palestra": "Oficina(Colegiado de Biomedicina ):\nRotina Laboratorial \n",
+            "Horario": "19H"
+        },
+        {
+            "Data": "24/02",
+            "Palestra": "Oficina(Colegiado de Psicologia ):\nQualidade de vida e saúde mental ",
+            "Horario": "19H"
+        },
+        {
+            "Data": "25/02",
+            "Palestra": "Oficina(Colegiado de Engenharia Civil e Elétrica ):\nSustentabilidade na Construção ",
+            "Horario": "19H"
+        },
+        {
+            "Data": "26/02",
+            "Palestra": "Oficina:(Colegiado de Administração )\nComunicação Estratégica \n",
+            "Horario": "19H"
+        },
+        {
+            "Data": "27/02",
+            "Palestra": "Oficina: (Colegiado de Direito)\nCibercrimes da internet \n",
+            "Horario": "19H"
+        },
+        {
+            "Data": "28/02",
+            "Palestra": "Oficina(Núcleo de Carreias)\nMarketing pessoal \n",
+            "Horario": "19H"
+        }
+    ]
+}
