@@ -297,9 +297,9 @@ const Header = () => {
           
 
           <LogoTop>
-          <Image src={logoTop} className="img-responsive" fluid onClick={() => window.open("https://aluno.uniftc.edu.br")}/>
+          <Image src={logoTop} className="img-responsive" fluid onClick={() => window.open("https://aluno.unex.edu.br")}/>
            
-              <ButtonHover Img={ImgEntreEmContato} ImgHover={ImgEntreEmContatoHover} onClick={() => window.open("https://aluno.uniftc.edu.br")}/>
+              <ButtonHover Img={ImgEntreEmContato} ImgHover={ImgEntreEmContatoHover} onClick={() => window.open("https://aluno.unex.edu.br")}/>
            
            {/*  <ButtonContatos /> */}
           </LogoTop>

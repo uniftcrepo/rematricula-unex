@@ -481,7 +481,7 @@ const Passos = () => {
           componenteLink={false}
           /* link={"https://aluno.UNEX.edu.br/"} */
           fonteWeight={"500"}
-          onClick={() => window.open("https://portal.unex.edu.br")}
+          onClick={() => window.open("https://aluno.unex.edu.br")}
           tamanhoMobile={"100%"}
           borderRadius={"16px"}
           setinha={SetinhaBranca}
@@ -637,7 +637,7 @@ const Passos = () => {
           componenteLink={false}
           /* link={"https://aluno.UNEX.edu.br"} */
           fonteWeight={"500"}
-          onClick={() => window.open("https://portal.unex.edu.br")}
+          onClick={() => window.open("https://aluno.unex.edu.br")}
           tamanhoMobile={"100%"}
           borderRadius={"16px"}
           setinha={SetinhaBranca}
