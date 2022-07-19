@@ -100,14 +100,14 @@ const Banner = ({ match }) => {
           <div>
             <Image src={IMGBanner} fluid />
             <div className="container">
-            <Avatar ><ButtonHover  Img={IMGVejaVideo} ImgHover={IMGVejaVideoHover} onClick={()=> window.open("https://youtu.be/UHSBo11AVjA")}/> </Avatar>
+            {/* <Avatar ><ButtonHover  Img={IMGVejaVideo} ImgHover={IMGVejaVideoHover} onClick={()=> window.open("https://youtu.be/UHSBo11AVjA")}/> </Avatar> */}
             </div>
           </div>
         </div>
 
         <div className="d-block d-sm-none">
           <div>
-            <Image onClick={()=> window.open("https://youtu.be/UHSBo11AVjA")} src={IMGBannerMob} fluid />
+            <Image /* onClick={()=> window.open("https://youtu.be/UHSBo11AVjA")} */ src={IMGBannerMob} fluid />
            {/*  <div className="container">
             {!isMobile && (<Avatar><ButtonHover Img={IMGVejaVideo} ImgHover={IMGVejaVideoHover} /></Avatar>)}
             </div> */}

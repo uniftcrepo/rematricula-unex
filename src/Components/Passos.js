@@ -481,7 +481,7 @@ const Passos = () => {
           componenteLink={false}
           /* link={"https://aluno.UNEX.edu.br/"} */
           fonteWeight={"500"}
-          onClick={() => window.open("https://aluno.uniftc.edu.br")}
+          onClick={() => window.open("https://portal.unex.edu.br")}
           tamanhoMobile={"100%"}
           borderRadius={"16px"}
           setinha={SetinhaBranca}
@@ -516,7 +516,7 @@ const Passos = () => {
     return (
       <div>
         <div>
-          <iframe
+         {/*  <iframe
             width={!isMobile ? "535" : "100%"}
             height={!isMobile ? "305" : "243"}
             src="https://www.youtube.com/embed/UHSBo11AVjA"
@@ -524,7 +524,7 @@ const Passos = () => {
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
-          ></iframe>
+          ></iframe> */}
         </div>
         <div>
           <Button
@@ -580,7 +580,7 @@ const Passos = () => {
     return (
       <div>
         {" "}
-        <div>
+       {/*  <div>
           <iframe
             width={!isMobile ? "535" : "100%"}
             height={!isMobile ? "305" : "243"}
@@ -590,7 +590,7 @@ const Passos = () => {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
-        </div>
+        </div> */}
         <div>
           <Button
             variant="primary"
@@ -637,7 +637,7 @@ const Passos = () => {
           componenteLink={false}
           /* link={"https://aluno.UNEX.edu.br"} */
           fonteWeight={"500"}
-          onClick={() => window.open("https://aluno.uniftc.edu.br")}
+          onClick={() => window.open("https://portal.unex.edu.br")}
           tamanhoMobile={"100%"}
           borderRadius={"16px"}
           setinha={SetinhaBranca}
@@ -665,7 +665,7 @@ const Passos = () => {
           componenteLink={false}
           /* link={"https://aluno.UNEX.edu.br"} */
           fonteWeight={"500"}
-          onClick={() => window.open("https://www.uniftc.edu.br/arquivos/rematricula/uniftc/CALENDÁRIO_ACADÊMICO_UNIFTC_VETERANOS_2022.2.pdf")}
+          onClick={() => window.open("https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_CALENDÁRIO ACADÊMICO_2022.2_UNIFICADO.pdf")}
           tamanhoMobile={"100%"}
           borderRadius={"16px"}
           setinha={SetinhaBranca}
@@ -724,7 +724,7 @@ const Passos = () => {
               <div>
                 {" "}
                 Leia o{" "}
-                <a href="https://www.UNEX.edu.br/arquivos/rematricula/UNEX/PRI_UNIFTC_INFORME DE REMATRICULA.pdf">
+                <a href="https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_INFORME DE REMATRÍCULA.pdf">
                   Informe de matrícula
                 </a>{" "}
                 e confira se você está apto à rematrícula em 2022.2.
@@ -750,7 +750,7 @@ const Passos = () => {
               <div>
                 {" "}
                 Tem pendências financeiras? Sem problemas, conheça as formas de
-                <a href="https://www.UNEX.edu.br/arquivos/rematricula/UNEX/PRI_UNIFTC_NEGOCIAÇÃO FINANCEIRA.pdf">
+                <a href="https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_NEGOCIAÇÃO FINANCEIRA.pdf">
                   {" "}
                   negociação financeira.
                 </a>

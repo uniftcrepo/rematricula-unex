@@ -100,8 +100,8 @@ export const Rodape = styled.div`
 
   .footer-container .links {
     display: grid;
-    grid-template-columns: 292px 238px;
-    margin-left: 40px;
+    grid-template-columns: 292px;
+    margin-left: 240px;
   }
 
   .footer-fdi p:nth-child(1) {
@@ -307,7 +307,7 @@ const Footer = () => {
                 <p>
                   <a
                     className="vestibular_uni"
-                    href="https://www.uniftc.edu.br/arquivos/rematricula/uniftc/UNIFTC_INFORME%20DE%20REMATRICULA.pdf"
+                    href="https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_INFORME%20DE%20REMATR%C3%8DCULA.pdf"
                   >
                     Informe de Matrícula
                   </a>
@@ -315,7 +315,7 @@ const Footer = () => {
                 <p>
                   <a
                     className="vestibular_uni"
-                    href="https://www.uniftc.edu.br/arquivos/rematricula/uniftc/UNIFTC_CARTILHA%20FIES.pdf"
+                    href="https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_CARTILHA%20FIES.pdf"
                   >
                     Manual do FIES
                   </a>
@@ -323,13 +323,13 @@ const Footer = () => {
                 <p>
                   <a
                     className="vestibular_uni"
-                    href="https://www.uniftc.edu.br/arquivos/rematricula/uniftc/UNIFTC_CARTILHA%20DO%20PROUNI.pdf"
+                    href="https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_CARTILHA%20PROUNI.pdf"
                   >
                     Manual do PROUNI
                   </a>
                 </p>
               </div>
-              <div className="veja-tambem ">
+          {/*     <div className="veja-tambem ">
                 <div>Veja também</div>
                 <div>
                   <p>
@@ -365,7 +365,7 @@ const Footer = () => {
                     </a>
                   </p>
                 </div>
-              </div>
+              </div> */}
             </div>
 
             <div className="atendimento">
