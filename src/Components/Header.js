@@ -232,8 +232,9 @@ export const LogoUNEXMobile = styled.div`
     display: show;
     img {
       width: 167px;
-      height: 76px;
+      height: 51px;
       margin-left: 20px;
+      margin-top: 14px;
     }
   }
   @media (min-width: 768px) {
