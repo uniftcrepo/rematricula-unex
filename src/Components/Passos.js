@@ -38,7 +38,7 @@ export const Nav = styled.div`
   z-index: 100;
   top: 0;
   left: 0;
-  background: #ff1970;
+  background: #97e70e;
   height: 60px;
   width: 100%;
   max-width: 100%;
@@ -136,7 +136,7 @@ export const Passo1 = styled.div`
   }
 
   .texto2 {
-    color: #ff1970;
+    color: #97e70e;
     font-style: normal;
     font-weight: 900;
     font-size: 36px;
@@ -209,7 +209,7 @@ export const Passo2 = styled.div`
     #1c3661;
   padding: 60px 0 67px 0;
   .texto2 {
-    color: #ff1970;
+    color: #97e70e;
     font-style: normal;
     font-weight: 900;
     font-size: 36px;
@@ -268,7 +268,7 @@ export const Passo3 = styled.div`
   background: #1c3661;
   padding: 60px 0 67px 0;
   .texto2 {
-    color: #ff1970;
+    color: #97e70e;
     font-style: normal;
     font-weight: 900;
     font-size: 36px;
@@ -331,7 +331,7 @@ export const Passo4 = styled.div`
     #1c3661;
   padding: 60px 0 67px 0;
   .texto2 {
-    color: #ff1970;
+    color: #97e70e;
     font-style: normal;
     font-weight: 900;
     font-size: 36px;
@@ -399,7 +399,7 @@ export const Passo5 = styled.div`
   background: #1c3661;
   padding: 60px 0 67px 0;
   .texto2 {
-    color: #ff1970;
+    color: #97e70e;
     font-style: normal;
     font-weight: 900;
     font-size: 36px;
@@ -479,7 +479,7 @@ const Passos = () => {
           marginLeft={"unset"}
           marginTop={"unset"}
           componenteLink={false}
-          /* link={"https://aluno.uniftc.edu.br/"} */
+          /* link={"https://aluno.UNEX.edu.br/"} */
           fonteWeight={"500"}
           onClick={() => window.open("https://aluno.uniftc.edu.br")}
           tamanhoMobile={"100%"}
@@ -502,7 +502,7 @@ const Passos = () => {
           marginTop={"unset"}
           componenteLink={false}
           link={
-            "https://www.uniftc.edu.br/arquivos/rematricula/uniftc/PRI_UNIFTC_INFORME DE REMATRICULA.pdf"
+            "https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_INFORME DE REMATRÍCULA.pdf"
           }
           fonteWeight={"500"}
           onClick={() => {}}
@@ -543,7 +543,7 @@ const Passos = () => {
             marginTop={"unset"}
             componenteLink={false}
             link={
-              "https://www.uniftc.edu.br/arquivos/rematricula/uniftc/PRI_UNIFTC_NEGOCIAÇÃO FINANCEIRA.pdf"
+              "https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_NEGOCIAÇÃO FINANCEIRA.pdf"
             }
             fonteWeight={"500"}
             /*   onClick={() => {}} */
@@ -607,7 +607,7 @@ const Passos = () => {
             marginLeft={"unset"}
             marginTop={"unset"}
             componenteLink={false}
-            link={"https://www.uniftc.edu.br/arquivos/rematricula/uniftc/PRI_UNIFTC_REMATRICULA ONLINE.pdf"}
+            link={"https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_REMATRÍCULA ONLINE.pdf"}
             fonteWeight={"500"}
             onClick={() => {}}
             tamanhoMobile={"100%"}
@@ -635,7 +635,7 @@ const Passos = () => {
           marginLeft={"unset"}
           marginTop={"unset"}
           componenteLink={false}
-          /* link={"https://aluno.uniftc.edu.br"} */
+          /* link={"https://aluno.UNEX.edu.br"} */
           fonteWeight={"500"}
           onClick={() => window.open("https://aluno.uniftc.edu.br")}
           tamanhoMobile={"100%"}
@@ -663,7 +663,7 @@ const Passos = () => {
           marginLeft={"unset"}
           marginTop={"unset"}
           componenteLink={false}
-          /* link={"https://aluno.uniftc.edu.br"} */
+          /* link={"https://aluno.UNEX.edu.br"} */
           fonteWeight={"500"}
           onClick={() => window.open("https://www.uniftc.edu.br/arquivos/rematricula/uniftc/CALENDÁRIO_ACADÊMICO_UNIFTC_VETERANOS_2022.2.pdf")}
           tamanhoMobile={"100%"}
@@ -724,7 +724,7 @@ const Passos = () => {
               <div>
                 {" "}
                 Leia o{" "}
-                <a href="https://www.uniftc.edu.br/arquivos/rematricula/uniftc/PRI_UNIFTC_INFORME DE REMATRICULA.pdf">
+                <a href="https://www.UNEX.edu.br/arquivos/rematricula/UNEX/PRI_UNIFTC_INFORME DE REMATRICULA.pdf">
                   Informe de matrícula
                 </a>{" "}
                 e confira se você está apto à rematrícula em 2022.2.
@@ -750,7 +750,7 @@ const Passos = () => {
               <div>
                 {" "}
                 Tem pendências financeiras? Sem problemas, conheça as formas de
-                <a href="https://www.uniftc.edu.br/arquivos/rematricula/uniftc/PRI_UNIFTC_NEGOCIAÇÃO FINANCEIRA.pdf">
+                <a href="https://www.UNEX.edu.br/arquivos/rematricula/UNEX/PRI_UNIFTC_NEGOCIAÇÃO FINANCEIRA.pdf">
                   {" "}
                   negociação financeira.
                 </a>

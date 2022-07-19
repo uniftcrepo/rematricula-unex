@@ -46,7 +46,7 @@ const CardInfo = ({ header, title, text, forma, footer }) => {
           >
             <Card.Title
               style={{
-                color: "#FF1970",
+                color: "#97e70e",
                 fontSize: "28px",
                 fontWeight: "bold",
               }}
@@ -90,7 +90,7 @@ const CardInfo = ({ header, title, text, forma, footer }) => {
                   texto={"saiba mais"}
                   tamanho={"100%"}
                   borderSolid={"2px solid #0093FF"}
-                  colorTexto={"#FF1970"}
+                  colorTexto={"#97e70e"}
                   fonteSize={"12px"}
                   fonteSizeMobile={"12px"}
                   padding={"0px 6px 0px 0px"}

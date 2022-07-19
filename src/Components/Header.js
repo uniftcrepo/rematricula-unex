@@ -7,7 +7,7 @@ import {
 } from "react-bootstrap";
 
 import styled from "styled-components";
-import logoTop from "../imagens/logo_top.svg";
+import logoTop from "../imagens/logo.png";
 import SetinhaAzul from "../imagens/setinha_azul.svg";
 
 import ButtonHover from "../Components/elementos/ButtonHover";
@@ -227,7 +227,7 @@ export const TelefoneWhatzap = styled.div`
   }
 `;
 
-export const LogoUniftcMobile = styled.div`
+export const LogoUNEXMobile = styled.div`
   @media screen and (min-width: 50px) and (max-width: 768px) {
     display: show;
     img {
@@ -323,9 +323,9 @@ const Header = () => {
           ></Navbar.Toggle>
           <Navbar.Brand href="#home">
             <LogosMobile>
-              <LogoUniftcMobile>
+              <LogoUNEXMobile>
                 <Image src={logoTop} />
-              </LogoUniftcMobile>
+              </LogoUNEXMobile>
             </LogosMobile>
           </Navbar.Brand>
           <TelefoneWhatzap>
@@ -336,7 +336,7 @@ const Header = () => {
               <Image
                 src={telefone}
                 className="d-inline-block align-top vest-iniciar-conversa"
-                alt="UNIFTC Whatsapp"
+                alt="UNEX Whatsapp"
               />
             </a>
           </TelefoneWhatzap>

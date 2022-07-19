@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Row, Col, Container, Image } from "react-bootstrap";
-import logoRodape from "../imagens/logo_rodape.svg";
+import logoRodape from "../imagens/logo.png";
 import whatsapp from "../imagens/rodape_whatsapp.svg";
 import linkdin from "../imagens/rodape_linkdin.svg";
 import facebook from "../imagens/rodape_facebook.svg";
@@ -271,7 +271,7 @@ const Footer = () => {
                 />
               </div>
               <div className="footer-contato">
-                <a href="https://api.whatsapp.com/send?phone=5571988357245&amp;text=Ol%C3%A1,%20UNIFTC">
+                <a href="https://api.whatsapp.com/send?phone=5571988357245&amp;text=Ol%C3%A1,%20uniftc">
                   <img src={whatsapp} className="" />
                 </a>
                 <a href="https://www.instagram.com/redeuniftc/" target="_blank">
@@ -303,7 +303,7 @@ const Footer = () => {
             </div>
             <div className="links">
               <div className="footer-fdi">
-                <p>Rematrícula UNIFTC 2022.2</p>
+                <p>Rematrícula unex 2022.2</p>
                 <p>
                   <a
                     className="vestibular_uni"

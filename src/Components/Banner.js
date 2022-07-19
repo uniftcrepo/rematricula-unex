@@ -2,8 +2,8 @@ import React, { useEffect, useState } from "react";
 import { Image, Container} from "react-bootstrap";
 import styled from "styled-components";
 import ButtonHover from "../Components/elementos/ButtonHover";
-import IMGBanner from "../imagens/PRI_UNIFTC_REMATRÍCULA 2022.2_BANNER SITE DESKTOP_1440x480.png";
-import IMGBannerMob from "../imagens/mob/PRI_UNIFTC_REMATRÍCULA 2022.2_BANNER SITE MOBILE_428x428.png";
+import IMGBanner from "../imagens/PRI_UNEX_REMATRÍCULA 2022.2_BANNER SITE DESKTOP_1440x480.png";
+import IMGBannerMob from "../imagens/mob/PRI_UNEX_REMATRÍCULA 2022.2_BANNER SITE MOBILE_428x428.png";
 import IMGVejaVideo from "../imagens/veja_video.png";
 import IMGVejaVideoHover from "../imagens/veja_video.png";
 

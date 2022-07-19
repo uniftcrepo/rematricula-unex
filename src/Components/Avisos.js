@@ -119,7 +119,7 @@ const Avisos = () => {
             <Row>
               <Col md={4}>
                 <Card1>
-                  <div>Rematrícula UNIFTC 2022.2</div>
+                  <div>Rematrícula UNEX 2022.2</div>
                   <div>
                     Você já começou a trajetória para o futuro que escolheu
                     trilhar. Agora é só manter o ritmo até a grande realização
@@ -154,7 +154,7 @@ const Avisos = () => {
             <>
               <Container>
                 <Card1>
-                  <div>Rematrícula UNIFTC 2022.2</div>
+                  <div>Rematrícula UNEX 2022.2</div>
                   <div>
                     Você já começou a trajetória para o futuro que escolheu
                     trilhar. Agora é só manter o ritmo até a grande realização

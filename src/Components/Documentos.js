@@ -54,7 +54,7 @@ const Documentos = () => {
             marginLeft={"unset"}
             marginTop={"unset"}
             componenteLink={false}
-            link={"https://www.uniftc.edu.br/arquivos/rematricula/uniftc/PRI_UNIFTC_INFORME DE REMATRICULA.pdf"}
+            link={"https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_INFORME DE REMATRÍCULA.pdf"}
             fonteWeight={"500"}
             onClick={() => {}}
             tamanhoMobile={"100%"}
@@ -74,7 +74,7 @@ const Documentos = () => {
             marginLeft={"unset"}
             marginTop={"unset"}
             componenteLink={false}
-            link={"https://www.uniftc.edu.br/arquivos/rematricula/uniftc/PRI_UNIFTC_CARTILHA FIES.pdf"}
+            link={"https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_CARTILHA FIES.pdf"}
             fonteWeight={"500"}
             onClick={() => {}}
             tamanhoMobile={"100%"}
@@ -94,7 +94,7 @@ const Documentos = () => {
             marginLeft={"unset"}
             marginTop={"unset"}
             componenteLink={false}
-            link={"https://www.uniftc.edu.br/arquivos/rematricula/uniftc/PRI_UNIFTC_CARTILHA DO PROUNI.pdf"}
+            link={"https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_CARTILHA PROUNI.pdf"}
             fonteWeight={"500"}
             onClick={() => {}}
             tamanhoMobile={"100%"}
