@@ -231,8 +231,8 @@ export const LogoUNEXMobile = styled.div`
   @media screen and (min-width: 50px) and (max-width: 768px) {
     display: show;
     img {
-      width: 167px;
-      height: 51px;
+      width: 164px;
+      height: 43px;
       margin-left: 20px;
       margin-top: 14px;
     }

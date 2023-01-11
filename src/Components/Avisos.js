@@ -119,7 +119,7 @@ const Avisos = () => {
             <Row>
               <Col md={4}>
                 <Card1>
-                  <div>Rematrícula UNEX 2022.2</div>
+                  <div>Rematrícula UNEX 2023.1</div>
                   <div>
                     Você já começou a trajetória para o futuro que escolheu
                     trilhar. Agora é só manter o ritmo até a grande realização
@@ -131,7 +131,7 @@ const Avisos = () => {
               <Col md={4}>
                 <CardInfo
                   header={"DENTRO DO PRAZO"}
-                  title={"07/07 a 23/07"}
+                  title={"05/01 a 04/02"}
                   text={
                     " Você que não deixa o seu futuro pra depois: <strong>quanto mais rápido fizer sua rematrícula mais disciplinas estarão disponíveis.</strong>"
                   }
@@ -142,7 +142,7 @@ const Avisos = () => {
               <Col md={4}>
                 <CardInfo
                   header={"FORA DO PRAZO"}
-                  title={"25/07 a 19/08"}
+                  title={"07/02 a 03/03"}
                   text={
                     "<strong>Não deixe seu futuro pra depois</strong>! Faça a sua rematrícula."
                   }
@@ -174,7 +174,7 @@ const Avisos = () => {
                 <SwiperSlide>
                   <CardInfo
                     header={"DENTRO DO PRAZO"}
-                    title={"07/07 a 23/07"}
+                    title={"07/02 a 03/03"}
                     text={
                       " Você que não deixa o seu futuro pra depois: <b>quanto mais rápido fizer sua rematrícula mais disciplinas estarão disponíveis.</b>"
                     }

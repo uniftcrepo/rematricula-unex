@@ -54,7 +54,67 @@ const Documentos = () => {
             marginLeft={"unset"}
             marginTop={"unset"}
             componenteLink={false}
-            link={"https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_INFORME DE REMATRÍCULA.pdf"}
+            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_INFORME DE REMATRÍCULA.pdf"}
+            fonteWeight={"500"}
+            onClick={() => {}}
+            tamanhoMobile={"100%"}
+            borderRadius={"16px"}
+          />
+           <Button
+            id="rematricula_online"
+            cor="#fff"
+            texto={"Rematrícula Online"}
+            colorTexto="#0093FF"
+            tamanho={"100%"}
+            borderSolid={"2px solid #0093FF"}
+            fonteSize={"18px"}
+            padding={"0px 6px 0px 0px"}
+            paddingMobile={"6px 22px 27px 20px"}
+            height={"40px"}
+            marginLeft={"unset"}
+            marginTop={"unset"}
+            componenteLink={false}
+            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_REMATRÍCULA ONLINE.pdf"}
+            fonteWeight={"500"}
+            onClick={() => {}}
+            tamanhoMobile={"100%"}
+            borderRadius={"16px"}
+          />
+           <Button
+            id="negociacao_financeira"
+            cor="#fff"
+            texto={"Negociação Financeira"}
+            colorTexto="#0093FF"
+            tamanho={"100%"}
+            borderSolid={"2px solid #0093FF"}
+            fonteSize={"18px"}
+            padding={"0px 6px 0px 0px"}
+            paddingMobile={"6px 22px 27px 20px"}
+            height={"40px"}
+            marginLeft={"unset"}
+            marginTop={"10px"}
+            componenteLink={false}
+            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_NEGOCIAÇÃO FINANCEIRA.pdf"}
+            fonteWeight={"500"}
+            onClick={() => {}}
+            tamanhoMobile={"100%"}
+            borderRadius={"16px"}
+          />
+           <Button
+            id="consulta_de_turmas"
+            cor="#fff"
+            texto={"Consulta de turmas"}
+            colorTexto="#0093FF"
+            tamanho={"100%"}
+            borderSolid={"2px solid #0093FF"}
+            fonteSize={"18px"}
+            padding={"0px 6px 0px 0px"}
+            paddingMobile={"6px 22px 27px 20px"}
+            height={"40px"}
+            marginLeft={"unset"}
+            marginTop={"10px"}
+            componenteLink={false}
+            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_CONSULTA DE TURMAS.pdf"}
             fonteWeight={"500"}
             onClick={() => {}}
             tamanhoMobile={"100%"}
@@ -72,9 +132,9 @@ const Documentos = () => {
             paddingMobile={"6px 22px 27px 20px"}
             height={"40px"}
             marginLeft={"unset"}
-            marginTop={"unset"}
+            marginTop={"10px"}
             componenteLink={false}
-            link={"https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_CARTILHA FIES.pdf"}
+            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_CARTILHA FIES.pdf"}
             fonteWeight={"500"}
             onClick={() => {}}
             tamanhoMobile={"100%"}
@@ -94,7 +154,7 @@ const Documentos = () => {
             marginLeft={"unset"}
             marginTop={"unset"}
             componenteLink={false}
-            link={"https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_CARTILHA PROUNI.pdf"}
+            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_CARTILHA PROUNI.pdf"}
             fonteWeight={"500"}
             onClick={() => {}}
             tamanhoMobile={"100%"}

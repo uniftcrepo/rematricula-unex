@@ -537,13 +537,15 @@ const Passos = () => {
             colorTexto={"#fff"}
             fonteSize={"18px"}
             padding={"0px 6px 0px 0px"}
-            paddingMobile={"6px 22px 27px 20px"}
+            paddingMobile={"0px 22px 1px 20px"}
             height={"40px"}
+            heightMobile={"46px"}
+
             marginLeft={"unset"}
             marginTop={"unset"}
             componenteLink={false}
             link={
-              "https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_NEGOCIAÇÃO FINANCEIRA.pdf"
+              "https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_NEGOCIAÇÃO FINANCEIRA.pdf"
             }
             fonteWeight={"500"}
             /*   onClick={() => {}} */
@@ -607,7 +609,7 @@ const Passos = () => {
             marginLeft={"unset"}
             marginTop={"unset"}
             componenteLink={false}
-            link={"https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_REMATRÍCULA ONLINE.pdf"}
+            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_REMATRÍCULA ONLINE.pdf"}
             fonteWeight={"500"}
             onClick={() => {}}
             tamanhoMobile={"100%"}
@@ -724,10 +726,10 @@ const Passos = () => {
               <div>
                 {" "}
                 Leia o{" "}
-                <a href="https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_INFORME DE REMATRÍCULA.pdf">
+                <a href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_REMATRÍCULA ONLINE.pdf">
                   Informe de matrícula
                 </a>{" "}
-                e confira se você está apto à rematrícula em 2022.2.
+                e confira se você está apto à rematrícula.
               </div>
               {!isMobile && grupoButtonPasso1()}
             </Col>
@@ -750,7 +752,7 @@ const Passos = () => {
               <div>
                 {" "}
                 Tem pendências financeiras? Sem problemas, conheça as formas de
-                <a href="https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_NEGOCIAÇÃO FINANCEIRA.pdf">
+                <a href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_NEGOCIAÇÃO FINANCEIRA.pdf">
                   {" "}
                   negociação financeira.
                 </a>
@@ -807,7 +809,7 @@ const Passos = () => {
             <Col md={6} xs={8} className="texto3">
               <div>
                 {" "}
-                Parabéns! Você concluiu todas as etapas da sua rematrícula com sucesso! Agora é só esperar o início das aulas dia 25/07* e seguir movimentando conhecimento.
+                Parabéns! Você concluiu todas as etapas da sua rematrícula com sucesso! Agora é só esperar o início das aulas dia e seguir movimentando conhecimento.
               </div>
               {!isMobile && grupoButtonPasso5()}
             </Col>

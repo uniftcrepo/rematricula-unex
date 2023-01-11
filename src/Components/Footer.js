@@ -51,7 +51,7 @@ export const Rodape = styled.div`
   }
   .footer_desktop {
     display: block;
-    height: 260px;
+    height: 290px;
     font-size: 14px;
     font-weight: 400;
     width: 100%;
@@ -100,8 +100,8 @@ export const Rodape = styled.div`
 
   .footer-container .links {
     display: grid;
-    grid-template-columns: 292px;
-    margin-left: 240px;
+    grid-template-columns: 292px 238px;
+    margin-left: 40px;
   }
 
   .footer-fdi p:nth-child(1) {
@@ -163,11 +163,11 @@ export const Rodape = styled.div`
     background-color: #fff;
     height: 608px;
     .footer_desktop {
-      height: 437px;
+      height: 465px;
     }
     .footer-container .grupo {
       grid-template-columns: 1fr;
-      grid-template-rows: 104px 165px 64px 150px;
+      grid-template-rows: 104px 215px 64px 150px;
     }
     .rede-sociais {
       display: grid;
@@ -307,7 +307,7 @@ const Footer = () => {
                 <p>
                   <a
                     className="vestibular_uni"
-                    href="https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_INFORME%20DE%20REMATR%C3%8DCULA.pdf"
+                    href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_INFORME DE REMATRÍCULA.pdf"
                   >
                     Informe de Matrícula
                   </a>
@@ -315,7 +315,7 @@ const Footer = () => {
                 <p>
                   <a
                     className="vestibular_uni"
-                    href="https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_CARTILHA%20FIES.pdf"
+                    href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_CARTILHA FIES.pdf"
                   >
                     Manual do FIES
                   </a>
@@ -323,9 +323,33 @@ const Footer = () => {
                 <p>
                   <a
                     className="vestibular_uni"
-                    href="https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_CARTILHA%20PROUNI.pdf"
+                    href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_CARTILHA PROUNI.pdf"
                   >
                     Manual do PROUNI
+                  </a>
+                </p>
+                <p>
+                  <a
+                    className="vestibular_uni"
+                    href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_REMATRÍCULA ONLINE.pdf"
+                  >
+                   Rematrícula Online
+                  </a>
+                </p>
+                <p>
+                  <a
+                    className="vestibular_uni"
+                    href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_NEGOCIAÇÃO FINANCEIRA.pdf"
+                  >
+                    Negociação Financeira
+                  </a>
+                </p>
+                <p>
+                  <a
+                    className="vestibular_uni"
+                    href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_CONSULTA DE TURMAS.pdf"
+                  >
+                    Consulta de turmas
                   </a>
                 </p>
               </div>
