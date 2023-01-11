@@ -809,7 +809,7 @@ const Passos = () => {
             <Col md={6} xs={8} className="texto3">
               <div>
                 {" "}
-                Parabéns! Você concluiu todas as etapas da sua rematrícula com sucesso! Agora é só esperar o início das aulas dia e seguir movimentando conhecimento.
+                Parabéns! Você concluiu todas as etapas da sua rematrícula com sucesso! Agora é só esperar o início das aulas e seguir movimentando conhecimento.
               </div>
               {!isMobile && grupoButtonPasso5()}
             </Col>
