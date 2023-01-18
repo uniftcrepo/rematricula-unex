@@ -667,7 +667,7 @@ const Passos = () => {
           componenteLink={false}
           /* link={"https://aluno.UNEX.edu.br"} */
           fonteWeight={"500"}
-          onClick={() => window.open("https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_CALENDÁRIO ACADÊMICO_2022.2_UNIFICADO.pdf")}
+          onClick={() => window.open("https://www.unex.edu.br/arquivos/rematricula/UNEX_CALENDÁRIO ACADÊMICO VETERANOS_2023.1.pdf")}
           tamanhoMobile={"100%"}
           borderRadius={"16px"}
           setinha={SetinhaBranca}
