@@ -174,7 +174,7 @@ const Avisos = () => {
                 <SwiperSlide>
                   <CardInfo
                     header={"DENTRO DO PRAZO"}
-                    title={"06/02 a 03/03"}
+                    title={"05/01 a 04/02"}
                     text={
                       " Você que não deixa o seu futuro pra depois: <b>quanto mais rápido fizer sua rematrícula mais disciplinas estarão disponíveis.</b>"
                     }
@@ -186,7 +186,7 @@ const Avisos = () => {
                   {" "}
                   <CardInfo
                     header={"FORA DO PRAZO"}
-                    title={"25/07 a 19/08"}
+                    title={"06/02 a 03/03"}
                     text={
                       "<b>Não deixe seu futuro pra depois! </b>Faça a sua rematrícula."
                     }
