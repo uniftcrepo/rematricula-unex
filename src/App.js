@@ -15,7 +15,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const App = (props) => {
 
   useEffect(() => {
-    document.title = "Rematrícula UNEX 2022.2"
+    document.title = "Rematrícula UNEX 2023.1"
   }, [])
   return (
     <div className="App">
