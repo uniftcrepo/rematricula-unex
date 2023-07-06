@@ -54,7 +54,7 @@ const Documentos = () => {
             marginLeft={"unset"}
             marginTop={"unset"}
             componenteLink={false}
-            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_INFORME DE REMATRÍCULA.pdf"}
+            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_INFORME DE REMATRICULA.pdf"}
             fonteWeight={"500"}
             onClick={() => {}}
             tamanhoMobile={"100%"}
@@ -74,7 +74,7 @@ const Documentos = () => {
             marginLeft={"unset"}
             marginTop={"unset"}
             componenteLink={false}
-            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_REMATRÍCULA ONLINE.pdf"}
+            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_REMATRICULA ONLINE.pdf"}
             fonteWeight={"500"}
             onClick={() => {}}
             tamanhoMobile={"100%"}
@@ -114,7 +114,7 @@ const Documentos = () => {
             marginLeft={"unset"}
             marginTop={"10px"}
             componenteLink={false}
-            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_CONSULTA DE TURMAS.pdf"}
+            link={"#"}
             fonteWeight={"500"}
             onClick={() => {}}
             tamanhoMobile={"100%"}

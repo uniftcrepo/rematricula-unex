@@ -104,7 +104,7 @@ const Avisos = () => {
 
   const dataPrevista = () => {
     var date1 = new Date();
-    var date2 = new Date("2022-07-24");
+    var date2 = new Date("2023-07-22");
     if (date1 >= date2) {
       return "desligado";
     }
@@ -119,7 +119,7 @@ const Avisos = () => {
             <Row>
               <Col md={4}>
                 <Card1>
-                  <div>Rematrícula UNEX 2023.1</div>
+                  <div>Rematrícula UNEX 2023.2</div>
                   <div>
                     Você já começou a trajetória para o futuro que escolheu
                     trilhar. Agora é só manter o ritmo até a grande realização
@@ -131,7 +131,7 @@ const Avisos = () => {
               <Col md={4}>
                 <CardInfo
                   header={"DENTRO DO PRAZO"}
-                  title={"05/01 a 04/02"}
+                  title={"05/07 a 22/07"}
                   text={
                     " Você que não deixa o seu futuro pra depois: <strong>quanto mais rápido fizer sua rematrícula mais disciplinas estarão disponíveis.</strong>"
                   }
@@ -142,7 +142,7 @@ const Avisos = () => {
               <Col md={4}>
                 <CardInfo
                   header={"FORA DO PRAZO"}
-                  title={"06/02 a 03/03"}
+                  title={"24/07 a 01/09"}
                   text={
                     "<strong>Não deixe seu futuro pra depois</strong>! Faça a sua rematrícula."
                   }
@@ -174,7 +174,7 @@ const Avisos = () => {
                 <SwiperSlide>
                   <CardInfo
                     header={"DENTRO DO PRAZO"}
-                    title={"05/01 a 04/02"}
+                    title={"05/07 a 22/07"}
                     text={
                       " Você que não deixa o seu futuro pra depois: <b>quanto mais rápido fizer sua rematrícula mais disciplinas estarão disponíveis.</b>"
                     }
@@ -186,7 +186,7 @@ const Avisos = () => {
                   {" "}
                   <CardInfo
                     header={"FORA DO PRAZO"}
-                    title={"06/02 a 03/03"}
+                    title={"24/07 a 01/09"}
                     text={
                       "<b>Não deixe seu futuro pra depois! </b>Faça a sua rematrícula."
                     }

@@ -18,6 +18,8 @@ import telefone from "../imagens/telefone.svg";
 import "../styled/styles_novo.scss";
 import "../styled/styles_drop.scss";
 
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 
 
 export const HeaderSite = styled.header`
@@ -301,7 +303,11 @@ const Header = () => {
            
               <ButtonHover Img={ImgEntreEmContato} ImgHover={ImgEntreEmContatoHover} onClick={() => window.open("https://aluno.unex.edu.br")}/>
            
-           {/*  <ButtonContatos /> */}
+              <span>
+              <a href="https://api.whatsapp.com/send?phone=557199982-4135&text=Ol%C3%A1,%20UNIFTC">
+              <FontAwesomeIcon icon="fa-brands fa-whatsapp" /> 71 9 9982-4135
+              </a>
+           </span>
           </LogoTop>
           <MenuTop>
           <a

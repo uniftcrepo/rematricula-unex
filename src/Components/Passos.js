@@ -502,7 +502,7 @@ const Passos = () => {
           marginTop={"unset"}
           componenteLink={false}
           link={
-            "https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_INFORME DE REMATRÍCULA.pdf"
+            "https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_INFORME DE REMATRICULA.pdf"
           }
           fonteWeight={"500"}
           onClick={() => {}}
@@ -609,7 +609,7 @@ const Passos = () => {
             marginLeft={"unset"}
             marginTop={"unset"}
             componenteLink={false}
-            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_REMATRÍCULA ONLINE.pdf"}
+            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_REMATRICULA ONLINE.pdf"}
             fonteWeight={"500"}
             onClick={() => {}}
             tamanhoMobile={"100%"}
