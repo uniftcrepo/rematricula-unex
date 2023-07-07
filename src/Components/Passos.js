@@ -667,7 +667,7 @@ const Passos = () => {
           componenteLink={false}
           /* link={"https://aluno.UNEX.edu.br"} */
           fonteWeight={"500"}
-          onClick={() => window.open("https://www.unex.edu.br/arquivos/rematricula/UNEX_CALENDÁRIO ACADÊMICO VETERANOS_2023.1.pdf")}
+          onClick={() => window.open("https://www.unex.edu.br/arquivos/rematricula/CALENDÁRIO ACADÊMICO VETERANO_UNEX 2023.2_vs 1 - 07.07.pdf")}
           tamanhoMobile={"100%"}
           borderRadius={"16px"}
           setinha={SetinhaBranca}
