@@ -303,7 +303,7 @@ const Footer = () => {
             </div>
             <div className="links">
               <div className="footer-fdi">
-                <p>Rematrícula unex 2022.2</p>
+                <p>Rematrícula unex</p>
                 <p>
                   <a
                     className="vestibular_uni"
