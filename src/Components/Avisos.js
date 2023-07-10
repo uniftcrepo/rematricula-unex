@@ -84,7 +84,7 @@ export const BodyContainer = styled.div`
     > p {
       font-style: normal;
       font-weight: normal;
-      font-size: 12px;
+      font-size: 15px;
       line-height: 27px;
       margin-right: 61px;
       margin-top: -24px;
@@ -142,7 +142,7 @@ const Avisos = () => {
               <Col md={4}>
                 <CardInfo
                   header={"FORA DO PRAZO"}
-                  title={"24/07 a 01/09"}
+                  title={"23/07 a 01/09"}
                   text={
                     "<strong>Não deixe seu futuro pra depois</strong>! Faça a sua rematrícula."
                   }
@@ -186,7 +186,7 @@ const Avisos = () => {
                   {" "}
                   <CardInfo
                     header={"FORA DO PRAZO"}
-                    title={"24/07 a 01/09"}
+                    title={"23/07 a 01/09"}
                     text={
                       "<b>Não deixe seu futuro pra depois! </b>Faça a sua rematrícula."
                     }

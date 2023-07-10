@@ -100,7 +100,7 @@ const Documentos = () => {
             tamanhoMobile={"100%"}
             borderRadius={"16px"}
           />
-           <Button
+           {/* <Button
             id="consulta_de_turmas"
             cor="#fff"
             texto={"Consulta de turmas"}
@@ -119,7 +119,7 @@ const Documentos = () => {
             onClick={() => {}}
             tamanhoMobile={"100%"}
             borderRadius={"16px"}
-          />
+          /> */}
           <Button
             id="manual_fies"
             cor="#fff"

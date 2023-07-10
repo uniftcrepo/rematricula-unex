@@ -19,6 +19,7 @@ import "../styled/styles_novo.scss";
 import "../styled/styles_drop.scss";
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import Button from "./elementos/ButtonClickLink";
 
 
 
@@ -184,6 +185,7 @@ export const BarraMenuTopo1 = styled.div`
 `;
 
 export const LogoTop = styled.span`
+  width:61%;
   /* padding: 0px 160px; */
   a {
     margin-left: 30px;
@@ -304,9 +306,35 @@ const Header = () => {
               <ButtonHover Img={ImgEntreEmContato} ImgHover={ImgEntreEmContatoHover} onClick={() => window.open("https://aluno.unex.edu.br")}/>
            
               <span>
-              <a href="https://api.whatsapp.com/send?phone=557199982-4135&text=Ol%C3%A1,%20UNIFTC">
-              <FontAwesomeIcon icon="fa-brands fa-whatsapp" /> 71 9 9982-4135
-              </a>
+              <span>
+            {/*   <a href="https://api.whatsapp.com/send?phone=557199982-4135&text=Ol%C3%A1,%20UNIFTC"> */}
+
+                <Button
+                  variant="primary"
+                  id="duvida_tutorial"
+                  cor="#fff"
+                  texto={"NEGOCIE FÁCIL"}
+                  tamanho={"25%"}
+                  borderSolid={"2px solid #0093FF"}
+                  colorTexto={"#000"}
+                  fonteSize={"15px"}
+                  padding={"0px 6px 0px 0px"}
+                  paddingMobile={"6px 22px 27px 20px"}
+                  height={"40px"}
+                  marginLeft={"unset"}
+                  marginTop={"unset"}
+                  componenteLink={false}
+                  link={"https://api.whatsapp.com/send?phone=557199982-4135&text=Ol%C3%A1,%20UNIFTC"}
+                  fonteWeight={"500"}
+                  onClick={() => { }}
+                  tamanhoMobile={"100%"}
+                  borderRadius={"16px"}
+                  icon= {<FontAwesomeIcon icon="fa-brands fa-whatsapp" />}
+                />
+
+                {/* NEGOCIE FÁCIL <FontAwesomeIcon icon="fa-brands fa-whatsapp" /> */}
+              {/* </a> */}
+            </span>
            </span>
           </LogoTop>
           <MenuTop>

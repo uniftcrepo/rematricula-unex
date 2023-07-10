@@ -552,11 +552,11 @@ const Passos = () => {
             tamanhoMobile={"100%"}
             borderRadius={"16px"}
           />
-          {/*   <Button
+             <Button
             variant="primary"
-            id="como_pagar_dois_cartoes"
+            id="acordo_online"
             cor="#1c3661"
-            texto={"Como pagar com dois cartões"}
+            texto={"Passo a Passo acordo online Negociação Financeira  "}
             tamanho={"100%"}
             borderSolid={"2px solid #0093FF"}
             colorTexto={"#fff"}
@@ -567,12 +567,12 @@ const Passos = () => {
             marginLeft={"unset"}
             marginTop={"unset"}
             componenteLink={false}
-            link={"#"}
+            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_PASSO A PASSO ACORDO ONLINE.pdf"}
             fonteWeight={"500"}
             onClick={() => {}}
             tamanhoMobile={"100%"}
             borderRadius={"16px"}
-          /> */}
+          />
         </div>
       </div>
     );
