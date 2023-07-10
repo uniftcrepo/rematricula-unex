@@ -531,7 +531,7 @@ const Passos = () => {
             variant="primary"
             id="negociacao_financeira"
             cor="#1c3661"
-            texto={"Negociação financeira / Pagamento com mais de um cartão"}
+            texto={"Negociação financeira"}
             tamanho={"100%"}
             borderSolid={"2px solid #0093FF"}
             colorTexto={"#fff"}
@@ -545,14 +545,14 @@ const Passos = () => {
             marginTop={"unset"}
             componenteLink={false}
             link={
-              "https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_NEGOCIAÇÃO FINANCEIRA.pdf"
+              "https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_PASSO A PASSO ACORDO ONLINE.pdf"
             }
             fonteWeight={"500"}
             /*   onClick={() => {}} */
             tamanhoMobile={"100%"}
             borderRadius={"16px"}
           />
-             <Button
+       {/*       <Button
             variant="primary"
             id="acordo_online"
             cor="#1c3661"
@@ -572,7 +572,7 @@ const Passos = () => {
             onClick={() => {}}
             tamanhoMobile={"100%"}
             borderRadius={"16px"}
-          />
+          /> */}
         </div>
       </div>
     );

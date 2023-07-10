@@ -160,7 +160,7 @@ const Avisos = () => {
                     trilhar. Agora é só manter o ritmo até a grande realização
                     profissional.{" "}
                   </div>
-                  <div>Renove. Movimente. Evolua.</div>
+                {/*   <div>Renove. Movimente. Evolua.</div> */}
                 </Card1>
               </Container>
               <Swiper

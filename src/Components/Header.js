@@ -339,7 +339,7 @@ const Header = () => {
           </LogoTop>
           <MenuTop>
           <a
-              href="https://portal.unex.edu.br/"
+              href="https://aluno.unex.edu.br"
               target="_blank"
             >
            <div><p>Acessar Portal do Aluno</p></div>
