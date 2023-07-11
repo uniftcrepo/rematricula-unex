@@ -344,14 +344,14 @@ const Footer = () => {
                     Negociação Financeira
                   </a>
                 </p>
-                <p>
+               {/*  <p>
                   <a
                     className="vestibular_uni"
                     href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_CONSULTA DE TURMAS.pdf"
                   >
                     Consulta de turmas
                   </a>
-                </p>
+                </p> */}
               </div>
           {/*     <div className="veja-tambem ">
                 <div>Veja também</div>
