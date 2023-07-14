@@ -16,7 +16,7 @@ const CardInfo = ({ header, title, text, forma, footer }) => {
   const [show, setShow] = useState(false);
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
-  console.log(forma, header);
+  //console.log(forma, header);
   return (
     <>
       <ModalMatriucla onAbreModal={show} onFecharModal={() => setShow(false)} size="xl" />
