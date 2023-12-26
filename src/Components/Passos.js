@@ -502,7 +502,30 @@ const Passos = () => {
           marginTop={"unset"}
           componenteLink={false}
           link={
-            "https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_INFORME DE REMATRICULA.pdf"
+            "https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_INFORME DE REMATRÍCULA ON-LINE.pdf"
+          }
+          fonteWeight={"500"}
+          onClick={() => {}}
+          tamanhoMobile={"100%"}
+          borderRadius={"16px"}
+        />
+        <Button
+          variant="primary"
+          id="informe_rematricula"
+          cor="#1c3661"
+          texto={"Cronograma Medicina"}
+          tamanho={"100%"}
+          borderSolid={"2px solid #0093FF"}
+          colorTexto={"#fff"}
+          fonteSize={"18px"}
+          padding={"0px 6px 0px 0px"}
+          paddingMobile={"6px 22px 27px 20px"}
+          height={"40px"}
+          marginLeft={"unset"}
+          marginTop={"unset"}
+          componenteLink={false}
+          link={
+            "https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_MEDICINA_CRONOGRAMA_PDF.pdf"
           }
           fonteWeight={"500"}
           onClick={() => {}}
@@ -531,7 +554,7 @@ const Passos = () => {
             variant="primary"
             id="negociacao_financeira"
             cor="#1c3661"
-            texto={"Negociação financeira"}
+            texto={"Negociação financeira. *Exceto Medicina"}
             tamanho={"100%"}
             borderSolid={"2px solid #0093FF"}
             colorTexto={"#fff"}
@@ -545,7 +568,7 @@ const Passos = () => {
             marginTop={"unset"}
             componenteLink={false}
             link={
-              "https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_PASSO A PASSO ACORDO ONLINE.pdf"
+              "https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_NEGOCIAÇÃO FINANCEIRA.pdf"
             }
             fonteWeight={"500"}
             /*   onClick={() => {}} */
@@ -598,18 +621,18 @@ const Passos = () => {
             variant="primary"
             id="duvida_tutorial"
             cor="#1c3661"
-            texto={"Ficou em dúvida? Confira o tutorial."}
+            texto={"Ficou em dúvida? Confira o passo a passo. *Exceto Medicina"}
             tamanho={"100%"}
             borderSolid={"2px solid #0093FF"}
             colorTexto={"#fff"}
             fonteSize={"18px"}
             padding={"0px 6px 0px 0px"}
-            paddingMobile={"6px 22px 27px 20px"}
+            paddingMobile={"6px 22px 45px 20px"}
             height={"40px"}
             marginLeft={"unset"}
             marginTop={"unset"}
             componenteLink={false}
-            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_REMATRICULA ONLINE.pdf"}
+            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_INFORME DE REMATRÍCULA ON-LINE.pdf"}
             fonteWeight={"500"}
             onClick={() => {}}
             tamanhoMobile={"100%"}
@@ -673,6 +696,32 @@ const Passos = () => {
           setinha={SetinhaBranca}
           fonteSizeMobile={"11px"}
         />
+        <div>
+        <Button
+          variant="primary"
+          id="duvida_tutorial"
+          cor="#0093FF"
+          texto={"Acesse o calendário acadêmico de Medicina"}
+          tamanho={"100%"}
+          borderSolid={"2px solid #0093FF"}
+          colorTexto={"#fff"}
+          fonteSize={"18px"}
+          padding={"0px 6px 0px 0px"}
+          paddingMobile={"10px 22px 27px 20px"}
+          height={"40px"}
+          marginLeft={"unset"}
+          marginTop={"20px !important"}
+          componenteLink={false}
+          /* link={"https://aluno.UNEX.edu.br"} */
+          fonteWeight={"500"}
+          onClick={() => window.open("https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_MEDICINA_CRONOGRAMA_PDF.pdf")}
+          tamanhoMobile={"100%"}
+          borderRadius={"16px"}
+          setinha={SetinhaBranca}
+          fonteSizeMobile={"11px"}
+        />
+        </div>
+         
       </div>
     );
   }

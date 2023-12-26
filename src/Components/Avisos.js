@@ -104,7 +104,7 @@ const Avisos = () => {
 
   const dataPrevista = () => {
     var date1 = new Date();
-    var date2 = new Date("2023-07-22");
+    var date2 = new Date("2024-01-28");
     if (date1 >= date2) {
       return "desligado";
     }
@@ -117,35 +117,30 @@ const Avisos = () => {
         <BodyContainer>
           {!isMobile ? (
             <Row>
-              <Col md={4}>
-                <Card1>
-                  <div>Rematrícula UNEX 2023.2</div>
-                  <div>
-                    Você já começou a trajetória para o futuro que escolheu
-                    trilhar. Agora é só manter o ritmo até a grande realização
-                    profissional.{" "}
-                  </div>
-                  {/* <div>Renove. Movimente. Evolua.</div> */}
-                </Card1>
-              </Col>
-              <Col md={4}>
+             
+              <Col md={6}>
                 <CardInfo
-                  header={"DENTRO DO PRAZO"}
-                  title={"05/07 a 22/07"}
-                  text={
-                    " Você que não deixa o seu futuro pra depois: <strong>quanto mais rápido fizer sua rematrícula mais disciplinas estarão disponíveis.</strong>"
-                  }
+                   header_rematricula={"Rematrícula 24.1 Dentro do Prazo:"}
+                   title_rematricula={"- 08/01 a 21/01"}
+                   header_prouni={"Estudantes PROUNI:"}
+                   title_prouni={"- 08/01 a 21/01:  Abertura de Requerimento<br> - 22/01 a 28/01: Rematrícula PROUNI"}
+                   text={
+                     "*Exceto Medicina"
+                   }
                   forma={dataPrevista()}
                   footer={false}
                 />
               </Col>
-              <Col md={4}>
+              <Col md={6}>
                 <CardInfo
-                  header={"FORA DO PRAZO"}
-                  title={"23/07 a 01/09"}
-                  text={
-                    "<strong>Não deixe seu futuro pra depois</strong>! Faça a sua rematrícula."
-                  }
+                   header_rematricula={"Rematrícula Medicina 24.1 Dentro do Prazo:"}
+                   title_rematricula={"- Etapa Financeira – 08/01 a 22/01"}
+                   header_prouni={""}
+                   title_prouni={"- Etapa Acadêmica – 24/01 a 02/02"}
+                   text={
+                     ""
+                   }
+                 
                   forma={"ligado"}
                 />
               </Col>
@@ -173,11 +168,13 @@ const Avisos = () => {
               >
                 <SwiperSlide>
                   <CardInfo
-                    header={"DENTRO DO PRAZO"}
-                    title={"05/07 a 22/07"}
-                    text={
-                      " Você que não deixa o seu futuro pra depois: <b>quanto mais rápido fizer sua rematrícula mais disciplinas estarão disponíveis.</b>"
-                    }
+                   header_rematricula={"Rematrícula 24.1 Dentro do Prazo:"}
+                   title_rematricula={"- 08/01 a 21/01"}
+                   header_prouni={"Estudantes PROUNI:"}
+                   title_prouni={"- 08/01 a 21/01:  Abertura de Requerimento<br> - 22/01 a 28/01: Rematrícula PROUNI"}
+                   text={
+                    "*Exceto Medicina"
+                  }
                     forma={dataPrevista()}
                     footer={false}
                   />
@@ -185,10 +182,12 @@ const Avisos = () => {
                 <SwiperSlide>
                   {" "}
                   <CardInfo
-                    header={"FORA DO PRAZO"}
-                    title={"23/07 a 01/09"}
+                    header_rematricula={"Rematrícula Medicina 24.1 Dentro do Prazo:"}
+                    title_rematricula={"- Etapa Financeira – 08/01 a 22/01"}
+                    header_prouni={""}
+                    title_prouni={"- Etapa Acadêmica – 24/01 a 02/02"}
                     text={
-                      "<b>Não deixe seu futuro pra depois! </b>Faça a sua rematrícula."
+                      ""
                     }
                     forma={"ligado"}
                   />
@@ -197,9 +196,9 @@ const Avisos = () => {
             </>
           )}
           <Row>
-            <Col className="exeto_medicina">
+           {/*  <Col className="exeto_medicina">
               <p>* Exceto Medicina</p>
-            </Col>
+            </Col> */}
             {/*  {!isMobile && ( <Col xs={12} md={4} className="exeto_medicina">
               <p>* Exceto Medicina</p>
             </Col>)} */}

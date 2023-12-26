@@ -12,7 +12,7 @@ export const CardFooter = styled.div`
   align-items: baseline;
 `;
 
-const CardInfo = ({ header, title, text, forma, footer }) => {
+const CardInfo = ({ header_rematricula, header_prouni, title_rematricula, title_prouni, text, forma, footer }) => {
   const [show, setShow] = useState(false);
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
@@ -37,7 +37,7 @@ const CardInfo = ({ header, title, text, forma, footer }) => {
               margin: "4px 1px -13px",
             }}
           >
-            {header}
+            {header_rematricula}
           </Card.Header>
           <Card.Body
             style={{
@@ -47,11 +47,38 @@ const CardInfo = ({ header, title, text, forma, footer }) => {
             <Card.Title
               style={{
                 color: "#97e70e",
-                fontSize: "28px",
+                fontSize: "24px",
                 fontWeight: "bold",
               }}
             >
-              {title}
+              {parse(title_rematricula)}
+            </Card.Title>
+           {/*  <Card.Text>{parse(text)}</Card.Text> */}
+          </Card.Body>
+          <Card.Header
+            style={{
+              backgroundColor: "#fff",
+              borderBottom: "0px",
+              color: "#0093ff",
+              fontSize: "10px",
+              margin: "4px 1px -13px",
+            }}
+          >
+            {header_prouni}
+          </Card.Header>
+          <Card.Body
+            style={{
+              padding: "0px 19px 19px",
+            }}
+          >
+            <Card.Title
+              style={{
+                color: "#97e70e",
+                fontSize: "24px",
+                fontWeight: "bold",
+              }}
+            >
+              {parse(title_prouni)}
             </Card.Title>
             <Card.Text>{parse(text)}</Card.Text>
           </Card.Body>
@@ -126,7 +153,7 @@ const CardInfo = ({ header, title, text, forma, footer }) => {
               margin: "4px 1px -13px",
             }}
           >
-            {header}
+            {header_rematricula}
           </Card.Header>
           <Card.Body
             style={{
@@ -140,7 +167,7 @@ const CardInfo = ({ header, title, text, forma, footer }) => {
                 fontWeight: "bold",
               }}
             >
-              <del> {title}</del>
+              <del> {parse(title_prouni)}</del>
             </Card.Title>
             <Card.Text
               style={{

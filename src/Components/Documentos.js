@@ -54,7 +54,7 @@ const Documentos = () => {
             marginLeft={"unset"}
             marginTop={"unset"}
             componenteLink={false}
-            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_INFORME DE REMATRICULA.pdf"}
+            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_INFORME DE REMATRÍCULA ON-LINE.pdf"}
             fonteWeight={"500"}
             onClick={() => {}}
             tamanhoMobile={"100%"}
@@ -134,7 +134,7 @@ const Documentos = () => {
             marginLeft={"unset"}
             marginTop={"10px"}
             componenteLink={false}
-            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_CARTILHA FIES.pdf"}
+            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_MANUAL DO ALUNO FIES.pdf"}
             fonteWeight={"500"}
             onClick={() => {}}
             tamanhoMobile={"100%"}
@@ -154,7 +154,27 @@ const Documentos = () => {
             marginLeft={"unset"}
             marginTop={"unset"}
             componenteLink={false}
-            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_CARTILHA PROUNI.pdf"}
+            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_MANUAL DO ALUNO PROUNI.pdf"}
+            fonteWeight={"500"}
+            onClick={() => {}}
+            tamanhoMobile={"100%"}
+            borderRadius={"16px"}
+          />
+            <Button
+            id="manual_prouni"
+            cor="#fff"
+            texto={"Cronograma de Medicina"}
+            colorTexto="#0093FF"
+            tamanho={"100%"}
+            borderSolid={"2px solid #0093FF"}
+            fonteSize={"18px"}
+            padding={"0px 6px 0px 0px"}
+            paddingMobile={"6px 22px 27px 20px"}
+            height={"40px"}
+            marginLeft={"unset"}
+            marginTop={"unset"}
+            componenteLink={false}
+            link={"https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_MEDICINA_CRONOGRAMA_PDF.pdf"}
             fonteWeight={"500"}
             onClick={() => {}}
             tamanhoMobile={"100%"}
