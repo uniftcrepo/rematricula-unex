@@ -121,9 +121,9 @@ const Avisos = () => {
               <Col md={6}>
                 <CardInfo
                    header_rematricula={"Rematrícula 24.1 Dentro do Prazo:"}
-                   title_rematricula={"- 08/01 a 21/01"}
+                   title_rematricula={" 08/01 a 21/01"}
                    header_prouni={"Estudantes PROUNI:"}
-                   title_prouni={"- 08/01 a 21/01:  Abertura de Requerimento<br> - 22/01 a 28/01: Rematrícula PROUNI"}
+                   title_prouni={" 08/01 a 21/01:  Abertura de Requerimento<br>  22/01 a 28/01: Rematrícula PROUNI"}
                    text={
                      "*Exceto Medicina"
                    }
@@ -134,9 +134,9 @@ const Avisos = () => {
               <Col md={6}>
                 <CardInfo
                    header_rematricula={"Rematrícula Medicina 24.1 Dentro do Prazo:"}
-                   title_rematricula={"- Etapa Financeira – 08/01 a 22/01"}
+                   title_rematricula={" Etapa Financeira – 08/01 a 22/01"}
                    header_prouni={""}
-                   title_prouni={"- Etapa Acadêmica – 24/01 a 02/02"}
+                   title_prouni={" Etapa Acadêmica – 24/01 a 02/02"}
                    text={
                      ""
                    }
@@ -169,9 +169,9 @@ const Avisos = () => {
                 <SwiperSlide>
                   <CardInfo
                    header_rematricula={"Rematrícula 24.1 Dentro do Prazo:"}
-                   title_rematricula={"- 08/01 a 21/01"}
+                   title_rematricula={" 08/01 a 21/01"}
                    header_prouni={"Estudantes PROUNI:"}
-                   title_prouni={"- 08/01 a 21/01:  Abertura de Requerimento<br> - 22/01 a 28/01: Rematrícula PROUNI"}
+                   title_prouni={" 08/01 a 21/01:  Abertura de Requerimento<br>  22/01 a 28/01: Rematrícula PROUNI"}
                    text={
                     "*Exceto Medicina"
                   }
@@ -183,9 +183,9 @@ const Avisos = () => {
                   {" "}
                   <CardInfo
                     header_rematricula={"Rematrícula Medicina 24.1 Dentro do Prazo:"}
-                    title_rematricula={"- Etapa Financeira – 08/01 a 22/01"}
+                    title_rematricula={" Etapa Financeira – 08/01 a 22/01"}
                     header_prouni={""}
-                    title_prouni={"- Etapa Acadêmica – 24/01 a 02/02"}
+                    title_prouni={" Etapa Acadêmica – 24/01 a 02/02"}
                     text={
                       ""
                     }

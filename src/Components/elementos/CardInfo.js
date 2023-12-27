@@ -33,7 +33,7 @@ const CardInfo = ({ header_rematricula, header_prouni, title_rematricula, title_
               backgroundColor: "#fff",
               borderBottom: "0px",
               color: "#0093ff",
-              fontSize: "10px",
+              fontSize: "14px",
               margin: "4px 1px -13px",
             }}
           >
@@ -41,13 +41,13 @@ const CardInfo = ({ header_rematricula, header_prouni, title_rematricula, title_
           </Card.Header>
           <Card.Body
             style={{
-              padding: "0px 19px 19px",
+              padding: "0px 19px 0px",
             }}
           >
             <Card.Title
               style={{
                 color: "#97e70e",
-                fontSize: "24px",
+                fontSize: "18px",
                 fontWeight: "bold",
               }}
             >
@@ -60,7 +60,7 @@ const CardInfo = ({ header_rematricula, header_prouni, title_rematricula, title_
               backgroundColor: "#fff",
               borderBottom: "0px",
               color: "#0093ff",
-              fontSize: "10px",
+              fontSize: "14px",
               margin: "4px 1px -13px",
             }}
           >
@@ -74,7 +74,7 @@ const CardInfo = ({ header_rematricula, header_prouni, title_rematricula, title_
             <Card.Title
               style={{
                 color: "#97e70e",
-                fontSize: "24px",
+                fontSize: "18px",
                 fontWeight: "bold",
               }}
             >
@@ -149,7 +149,7 @@ const CardInfo = ({ header_rematricula, header_prouni, title_rematricula, title_
               backgroundColor: "#fff",
               borderBottom: "0px",
               color: "#ccc",
-              fontSize: "10px",
+              fontSize: "14px",
               margin: "4px 1px -13px",
             }}
           >
@@ -163,7 +163,7 @@ const CardInfo = ({ header_rematricula, header_prouni, title_rematricula, title_
             <Card.Title
               style={{
                 color: "#ccc",
-                fontSize: "28px",
+                fontSize: "18px",
                 fontWeight: "bold",
               }}
             >
