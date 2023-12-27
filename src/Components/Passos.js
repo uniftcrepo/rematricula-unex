@@ -690,7 +690,7 @@ const Passos = () => {
           componenteLink={false}
           /* link={"https://aluno.UNEX.edu.br"} */
           fonteWeight={"500"}
-          onClick={() => window.open("https://www.unex.edu.br/arquivos/rematricula/CALENDÁRIO ACADÊMICO VETERANO_UNEX 2023.2_vs 1 - 07.07.pdf")}
+          onClick={() => window.open("https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_CALENDÁRIO ACADÊMICO_2024.1 CALOURO E VETERANO.pdf")}
           tamanhoMobile={"100%"}
           borderRadius={"16px"}
           setinha={SetinhaBranca}
@@ -714,7 +714,7 @@ const Passos = () => {
           componenteLink={false}
           /* link={"https://aluno.UNEX.edu.br"} */
           fonteWeight={"500"}
-          onClick={() => window.open("https://www.unex.edu.br/arquivos/rematricula/PRI_UNEX_MEDICINA_CRONOGRAMA_PDF.pdf")}
+          onClick={() => window.open("https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_MEDICINA_CALENDÁRIO ACADÊMICO_2024.1 CALOURO E VETERANO.pdf")}
           tamanhoMobile={"100%"}
           borderRadius={"16px"}
           setinha={SetinhaBranca}

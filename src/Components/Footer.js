@@ -307,7 +307,7 @@ const Footer = () => {
                 <p>
                   <a
                     className="vestibular_uni"
-                    href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_INFORME DE REMATRÍCULA.pdf"
+                    href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_INFORME DE REMATRÍCULA ON-LINE.pdf"
                   >
                     Informe de Matrícula
                   </a>
@@ -315,7 +315,7 @@ const Footer = () => {
                 <p>
                   <a
                     className="vestibular_uni"
-                    href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_CARTILHA FIES.pdf"
+                    href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_MANUAL DO ALUNO FIES.pdf"
                   >
                     Manual do FIES
                   </a>
@@ -323,7 +323,7 @@ const Footer = () => {
                 <p>
                   <a
                     className="vestibular_uni"
-                    href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_CARTILHA PROUNI.pdf"
+                    href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_MANUAL DO ALUNO PROUNI.pdf"
                   >
                     Manual do PROUNI
                   </a>
