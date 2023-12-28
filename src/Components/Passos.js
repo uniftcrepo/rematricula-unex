@@ -632,7 +632,7 @@ const Passos = () => {
             marginLeft={"unset"}
             marginTop={"unset"}
             componenteLink={false}
-            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_INFORME DE REMATRÍCULA ON-LINE.pdf"}
+            link={"https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_REMATRÍCULA PASSO A PASSO.pdf"}
             fonteWeight={"500"}
             onClick={() => {}}
             tamanhoMobile={"100%"}
