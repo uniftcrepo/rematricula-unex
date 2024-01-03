@@ -490,7 +490,7 @@ const Passos = () => {
           variant="primary"
           id="informe_rematricula"
           cor="#1c3661"
-          texto={"Informe de rematrícula"}
+          texto={"Informe de rematrícula. *Exceto Medicina"}
           tamanho={"100%"}
           borderSolid={"2px solid #0093FF"}
           colorTexto={"#fff"}
