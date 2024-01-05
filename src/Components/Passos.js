@@ -775,9 +775,9 @@ const Passos = () => {
               <div>
                 {" "}
                 Leia o{" "}
-                <a href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_REMATRÍCULA ONLINE.pdf">
+               {/*  <a href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_REMATRÍCULA ONLINE.pdf"> */}
                   Informe de matrícula
-                </a>{" "}
+              {/*   </a>{" "} */}
                 e confira se você está apto à rematrícula.
               </div>
               {!isMobile && grupoButtonPasso1()}
@@ -801,10 +801,10 @@ const Passos = () => {
               <div>
                 {" "}
                 Tem pendências financeiras? Sem problemas, conheça as formas de
-                <a href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_NEGOCIAÇÃO FINANCEIRA.pdf">
+                {/* <a href="https://www.unex.edu.br/arquivos/rematricula/NAT_UNEX_NEGOCIAÇÃO FINANCEIRA.pdf"> */}
                   {" "}
                   negociação financeira.
-                </a>
+               {/*  </a> */}
               </div>
               {!isMobile && grupoButtonVideoPasso2()}
             </Col>
