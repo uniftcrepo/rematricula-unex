@@ -121,9 +121,9 @@ const Avisos = () => {
               <Col md={6}>
                 <CardInfo
                    header_rematricula={"Rematrícula 24.1 Dentro do Prazo:"}
-                   title_rematricula={" 08/21 a 28/01"}
+                   title_rematricula={" 08/01 a 28/01"}
                    header_prouni={"Estudantes PROUNI:"}
-                   title_prouni={" 08/21 a 28/01:   Abertura de Requerimento de Desempenho Acadêmico na CAA virtual<br>  22/01 a 28/01: Rematrícula PROUNI"}
+                   title_prouni={" 08/01 a 21/01:   Abertura de Requerimento de Desempenho Acadêmico na CAA virtual<br>  22/01 a 28/01: Rematrícula PROUNI"}
                    text={
                      "*Exceto Medicina"
                    }
@@ -149,7 +149,7 @@ const Avisos = () => {
             <>
               <Container>
                 <Card1>
-                  <div>Rematrícula UNEX 2022.2</div>
+                  <div>Rematrícula UNEX 2024.1</div>
                   <div>
                     Você já começou a trajetória para o futuro que escolheu
                     trilhar. Agora é só manter o ritmo até a grande realização
@@ -169,9 +169,9 @@ const Avisos = () => {
                 <SwiperSlide>
                   <CardInfo
                    header_rematricula={"Rematrícula 24.1 Dentro do Prazo:"}
-                   title_rematricula={" 08/21 a 28/01"}
+                   title_rematricula={" 08/01 a 28/01"}
                    header_prouni={"Estudantes PROUNI:"}
-                   title_prouni={" 08/21 a 28/01:   Abertura de Requerimento de Desempenho Acadêmico na CAA virtual<br>  22/01 a 28/01: Rematrícula PROUNI"}
+                   title_prouni={" 08/01 a 21/01:   Abertura de Requerimento de Desempenho Acadêmico na CAA virtual<br>  22/01 a 28/01: Rematrícula PROUNI"}
                    text={
                     "*Exceto Medicina"
                   }
