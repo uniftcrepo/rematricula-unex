@@ -104,7 +104,7 @@ const Avisos = () => {
 
   const dataPrevista = () => {
     var date1 = new Date();
-    var date2 = new Date("2024-01-28");
+    var date2 = new Date("2024-03-02");
     if (date1 >= date2) {
       return "desligado";
     }
@@ -121,7 +121,7 @@ const Avisos = () => {
               <Col md={6}>
                 <CardInfo
                    header_rematricula={"Rematrícula 24.1 Dentro do Prazo:"}
-                   title_rematricula={" 08/01 a 28/01"}
+                   title_rematricula={" 29/01 a 02/03"}
                    header_prouni={"Estudantes PROUNI:"}
                    title_prouni={" 08/01 a 21/01:   Abertura de Requerimento de Desempenho Acadêmico na CAA virtual<br>  22/01 a 28/01: Rematrícula PROUNI"}
                    text={
@@ -169,7 +169,7 @@ const Avisos = () => {
                 <SwiperSlide>
                   <CardInfo
                    header_rematricula={"Rematrícula 24.1 Dentro do Prazo:"}
-                   title_rematricula={" 08/01 a 28/01"}
+                   title_rematricula={" 29/01 a 02/03"}
                    header_prouni={"Estudantes PROUNI:"}
                    title_prouni={" 08/01 a 21/01:   Abertura de Requerimento de Desempenho Acadêmico na CAA virtual<br>  22/01 a 28/01: Rematrícula PROUNI"}
                    text={
