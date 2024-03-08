@@ -271,7 +271,7 @@ const Footer = () => {
                 />
               </div>
               <div className="footer-contato">
-                <a href="https://api.whatsapp.com/send?phone=5571988357245&amp;text=Ol%C3%A1,%20uniftc">
+                <a href="https://api.whatsapp.com/send?phone=5508007100070&amp;text=Ol%C3%A1,%20uniftc">
                   <img src={whatsapp} className="" />
                 </a>
                 <a href="https://www.instagram.com/redeuniftc/" target="_blank">
